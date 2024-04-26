@@ -1,0 +1,18 @@
+<div class="container">
+	{% for collection in collections %}
+		{% for vendor in collection.all_vendors %}
+			<div>{{ vendor }}</div>
+		{% endfor %}
+	{% endfor %}
+</div>
+{% schema %}
+{
+	"name": "Brands list",
+	"class": "brands-list",
+	"tag": "section",
+	"enabled_on": {
+		"templates": ["page"]
+	},
+	"settings": []
+}
+{% endschema %}
