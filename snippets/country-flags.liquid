@@ -1,0 +1,67 @@
+{% case country_code %}
+  {% when 'AE' %}
+    {% capture country_flag %}flag_ae.svg{% endcapture %}
+    {% capture country_name %}United Arab Emirates{% endcapture %}
+  {% when 'BG' %}
+    {% capture country_flag %}flag_bg.svg{% endcapture %}
+    {% capture country_name %}Bulgaria{% endcapture %}
+  {% when 'CN' %}
+    {% capture country_flag %}flag_cn.svg{% endcapture %}
+    {% capture country_name %}China{% endcapture %}
+  {% when 'DE' %}
+    {% capture country_flag %}flag_de.svg{% endcapture %}
+    {% capture country_name %}Germany{% endcapture %}
+  {% when 'ES' %}
+    {% capture country_flag %}flag_es.svg{% endcapture %}
+    {% capture country_name %}Spain{% endcapture %}
+  {% when 'FI' %}
+    {% capture country_flag %}flag_fi.svg{% endcapture %}
+    {% capture country_name %}Finland{% endcapture %}
+  {% when 'GB' %}
+    {% capture country_flag %}flag_gb.svg{% endcapture %}
+    {% capture country_name %}United Kingdom{% endcapture %}
+  {% when 'HK' %}
+    {% capture country_flag %}flag_hk.svg{% endcapture %}
+    {% capture country_name %}Hong Kong{% endcapture %}
+  {% when 'IL' %}
+    {% capture country_flag %}flag_il.svg{% endcapture %}
+    {% capture country_name %}Israel{% endcapture %}
+  {% when 'IT' %}
+    {% capture country_flag %}flag_it.svg{% endcapture %}
+    {% capture country_name %}Italy{% endcapture %}
+  {% when 'JP' %}
+    {% capture country_flag %}flag_jp.svg{% endcapture %}
+    {% capture country_name %}Japan{% endcapture %}
+  {% when 'KZ' %}
+    {% capture country_flag %}flag_kz.svg{% endcapture %}
+    {% capture country_name %}Kazakhstan{% endcapture %}
+  {% when 'PL' %}
+    {% capture country_flag %}flag_pl.svg{% endcapture %}
+    {% capture country_name %}Poland{% endcapture %}
+  {% when 'TH' %}
+    {% capture country_flag %}flag_th.svg{% endcapture %}
+    {% capture country_name %}Thailand{% endcapture %}
+  {% when 'TR' %}
+    {% capture country_flag %}flag_tr.svg{% endcapture %}
+    {% capture country_name %}Turkey{% endcapture %}
+  {% when 'US' %}
+    {% capture country_flag %}flag_us.svg{% endcapture %}
+    {% capture country_name %}USA{% endcapture %}
+  {% else %}
+    {% capture country_flag %}flag_xx.svg{% endcapture %}
+    {% capture country_name %}{% endcapture %}
+{% endcase %}
+<div class="delivery_country">
+  <div class="delivery_country_flag">
+    <img
+      width="40"
+      height="40"
+      src="{{ country_flag | asset_url }}"
+      alt="{{ country_code }}" />
+  </div>
+  {%- if country_name != blank -%}
+    <div class="delivery_country_name">
+      From {{ country_name }}
+    </div>
+  {%- endif -%}
+</div>

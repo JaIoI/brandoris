@@ -1,0 +1,151 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "title": {
+          "type": "article-header",
+          "settings": {
+            "blog_show_tags": true,
+            "blog_show_excerpt": true,
+            "blog_show_author": false,
+            "blog_show_date": false,
+            "image_height": "medium",
+            "show_share_facebook": true,
+            "show_share_twitter": true,
+            "show_share_pinterest": true,
+            "show_share_copy": true
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        },
+        "article_footer": {
+          "type": "article-footer",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false,
+            "show_share_facebook": true,
+            "show_share_twitter": true,
+            "show_share_pinterest": true,
+            "show_share_copy": true
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "content",
+        "article_footer"
+      ],
+      "settings": {
+        "header_variant": "overlay",
+        "opacity_overlay": 0.2,
+        "show_border": false,
+        "padding_top": "no-indent",
+        "padding_bottom": "xs"
+      }
+    },
+    "popular_products_iBLDAW": {
+      "type": "popular-products",
+      "settings": {
+        "heading": "",
+        "collection_list": [
+          "jeans"
+        ],
+        "products_limit": 12,
+        "products_to_show": 4,
+        "filter": true,
+        "filter_type": "tags",
+        "show_vendor": true,
+        "show_sku": false,
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "featured_blog": {
+      "type": "featured-blog",
+      "settings": {
+        "color_scheme": "background-1",
+        "color_scheme_card": "background-2",
+        "subheading": "",
+        "heading": "Latest Articles",
+        "heading_size": "h3",
+        "post_layout": "column",
+        "image_width": "small",
+        "image_fit": "contain",
+        "icon_background": "background-2",
+        "blog": "news",
+        "post_limit": 6,
+        "post_limit_mobile": 3,
+        "show_image": true,
+        "show_tags": true,
+        "show_date": false,
+        "show_author": false,
+        "show_excerpt": false,
+        "show_view_all": false,
+        "show_view_all_mobile": true,
+        "button_label": "Button label",
+        "button_style": "secondary",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "rich_text_BNThtV": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_RNt7Wm": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "heading_chADLi": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Heading for your section</p>",
+            "heading_size": "medium"
+          }
+        },
+        "text_UMdcFV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Description for your section.</p>"
+          }
+        },
+        "button_kU8jXV": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_RNt7Wm",
+        "heading_chADLi",
+        "text_UMdcFV",
+        "button_kU8jXV"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "xs"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "popular_products_iBLDAW",
+    "featured_blog",
+    "rich_text_BNThtV"
+  ]
+}

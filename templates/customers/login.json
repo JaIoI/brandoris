@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-login",
+      "settings": {
+        "subtitle": "Some text for section",
+        "image": "shopify://shop_images/woman-use-mobile-phone-table-pink-light.jpg",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

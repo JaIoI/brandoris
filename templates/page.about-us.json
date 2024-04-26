@@ -1,0 +1,419 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_6zLcLG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UGVin3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>BRANDORIS</p>",
+            "heading_size": "medium"
+          }
+        },
+        "text_Kci9zA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We provide a comprehensive range of services for ordering products from popular brands abroad.</p><p>The service was launched by the international logistics operator.</p>"
+          }
+        },
+        "button_ea6Hiq": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UGVin3",
+        "text_Kci9zA",
+        "button_ea6Hiq"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "xs",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "xs"
+      }
+    },
+    "cards_grid_iapGrT": {
+      "type": "cards-grid",
+      "blocks": {
+        "column_TEEaR3": {
+          "type": "column",
+          "settings": {
+            "column_start": 1,
+            "column_end": 5,
+            "row_start": "1",
+            "row_end": "5",
+            "min_height": "medium",
+            "padding": "small",
+            "image": "shopify://shop_images/6540_f786718c-3443-4fd2-a600-d228799d1824.jpg",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "background-2",
+            "background_color": "#ffffff",
+            "background_effect": "none",
+            "effect_opacity": 0,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "dark",
+            "subheading": "",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "",
+            "heading_size": "h3",
+            "heading_width": 50,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TEEaR3"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns": 4,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "xs"
+      }
+    },
+    "multicolumn_NycPHt": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tXT99J": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1e.png",
+            "heading": "",
+            "text": "1. Acting as an intermediary between the client and foreign sellers as an agent, representing the client's interests"
+          }
+        },
+        "column_xyXpc9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4e.png",
+            "heading": "",
+            "text": "2. Providing access to a unified storefront for searching, selecting, ordering, and paying for foreign goods"
+          }
+        },
+        "column_EieRjL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2e.png",
+            "heading": "",
+            "text": "3. Fulfilling client orders for searching, purchasing, and delivering goods from overseas"
+          }
+        }
+      },
+      "block_order": [
+        "column_tXT99J",
+        "column_xyXpc9",
+        "column_EieRjL"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "multicolumn_to_show": 3,
+        "image_type": "image",
+        "icon_background": "no-bg",
+        "image_width": "medium",
+        "object_fit": "contain",
+        "swipe_on_mobile": false,
+        "border_top": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "s",
+        "padding_bottom": "s"
+      }
+    },
+    "rich_text_Wgzan9": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_GpBi9R": {
+          "type": "subheading",
+          "settings": {
+            "subheading": ""
+          }
+        },
+        "heading_FWN4CY": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Key advantages:</p>",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_GpBi9R",
+        "heading_FWN4CY"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "multicolumn_r8e6LF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_raqgEx": {
+          "type": "column",
+          "settings": {
+            "image_2": "shopify://shop_images/5e.png",
+            "heading": "Original products from global brands",
+            "text": ""
+          }
+        },
+        "column_7FrAE6": {
+          "type": "column",
+          "settings": {
+            "image_2": "shopify://shop_images/7e.png",
+            "heading": "Access to international sales",
+            "text": ""
+          }
+        },
+        "column_rbaB8U": {
+          "type": "column",
+          "settings": {
+            "image_2": "shopify://shop_images/6e.png",
+            "heading": "Early access to new releases",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_raqgEx",
+        "column_7FrAE6",
+        "column_rbaB8U"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "multicolumn_to_show": 3,
+        "image_type": "image",
+        "icon_background": "no-bg",
+        "image_width": "medium",
+        "object_fit": "contain",
+        "swipe_on_mobile": false,
+        "border_top": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "s",
+        "padding_bottom": "s"
+      }
+    },
+    "rich_text_ji83m4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PA3dHU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>How does it work?</p>",
+            "heading_size": "medium"
+          }
+        },
+        "text_QyVKYm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We provide services on an \"all-inclusive\" basis:</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PA3dHU",
+        "text_QyVKYm"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "image_banner_EddJY3": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "medium",
+        "text_information": "",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "",
+        "button_style": "primary",
+        "button_link": "",
+        "image": "shopify://shop_images/4447873.jpg",
+        "image_ratio": "adapt",
+        "opacity_overlay": 0,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "cards_grid_4jxzQY": {
+      "type": "cards-grid",
+      "blocks": {
+        "column_GXd8DV": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "column_start": 1,
+            "column_end": 5,
+            "row_start": "1",
+            "row_end": "3",
+            "min_height": "large",
+            "padding": "large",
+            "image": "shopify://shop_images/6540.jpg",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "background-2",
+            "background_color": "#ffffff",
+            "background_effect": "none",
+            "effect_opacity": 0,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "dark",
+            "subheading": "",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "",
+            "heading_size": "h3",
+            "heading_width": 50,
+            "text": "",
+            "text_size": "small",
+            "text_width": 20,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GXd8DV"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns": 4,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "multicolumn_nbtdVN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QyEK3V": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "● The client selects the products of interest in the informational catalog, adds them to the cart, and pays for the order"
+          }
+        },
+        "column_CaAGwa": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "● They commission us to organize the search, purchase, and delivery of the products according to the preliminary description from the product card."
+          }
+        },
+        "column_7JgtNH": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "● Then we proceed with fulfilling the order - finding a retail seller abroad, organizing the purchase of the product, and its delivery to the client."
+          }
+        }
+      },
+      "block_order": [
+        "column_QyEK3V",
+        "column_CaAGwa",
+        "column_7JgtNH"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "multicolumn_to_show": 3,
+        "image_type": "image",
+        "icon_background": "background-2",
+        "image_width": "medium",
+        "object_fit": "contain",
+        "swipe_on_mobile": false,
+        "border_top": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "s",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "rich_text_PMmWhd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_j6grYx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Currently, the catalog features offers from more than <strong>26,000 foreign brands</strong>. We deliver products from 15 countries, including the <strong>USA, China, the United Arab Emirates, Turkey, Italy, the UK, Germany, Japan, and Spain</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_j6grYx"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_6zLcLG",
+    "cards_grid_iapGrT",
+    "multicolumn_NycPHt",
+    "rich_text_Wgzan9",
+    "multicolumn_r8e6LF",
+    "rich_text_ji83m4",
+    "image_banner_EddJY3",
+    "cards_grid_4jxzQY",
+    "multicolumn_nbtdVN",
+    "rich_text_PMmWhd"
+  ]
+}

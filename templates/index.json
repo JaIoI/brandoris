@@ -1,0 +1,882 @@
+{
+  "sections": {
+    "cards_grid_9dzNRz": {
+      "type": "cards-grid",
+      "blocks": {
+        "column_p6imiT": {
+          "type": "column",
+          "settings": {
+            "column_start": 1,
+            "column_end": 5,
+            "row_start": "1",
+            "row_end": "unset",
+            "min_height": "large",
+            "padding": "large",
+            "image": "shopify://shop_images/oiuh0.png",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "none",
+            "effect_opacity": 0,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "light",
+            "subheading": "BRANDORIS",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#55137c",
+            "heading": "LET'S SHOPPING",
+            "heading_size": "h1",
+            "heading_width": 60,
+            "text": "CHECK OUT THE MOST POPULAR PRODUCTS",
+            "text_size": "medium",
+            "text_width": 100,
+            "show_button": true,
+            "button_label": "GO TO BRANDS",
+            "button_link": "shopify://pages/brands",
+            "style_button": "tag subtitle",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_p6imiT"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns": 4,
+        "margin_top": "xs",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "brands": {
+      "type": "brands",
+      "blocks": {
+        "block_1": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/adidas-2.jpg",
+            "image_width": 100,
+            "brand_link": "shopify://collections/adidas"
+          }
+        },
+        "block_2": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/michael-kors-1.jpg",
+            "image_width": 100,
+            "brand_link": "shopify://collections/michael-kors"
+          }
+        },
+        "block_3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_1": "shopify://shop_images/air-jordan-gray.webp",
+            "image_width": 100,
+            "brand_link": ""
+          }
+        },
+        "column_fjdgPJ": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_1": "shopify://shop_images/jbl-gray.webp",
+            "image_width": 100,
+            "brand_link": ""
+          }
+        },
+        "block_4": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_1": "shopify://shop_images/uniqlo-grey.webp",
+            "image_width": 110,
+            "brand_link": ""
+          }
+        },
+        "column_EPEzEr": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/calvin-klein.jpg",
+            "image_width": 100,
+            "brand_link": "shopify://collections/calvin-klein"
+          }
+        },
+        "block_5": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_1": "shopify://shop_images/bershka-gray.webp",
+            "image_width": 100,
+            "brand_link": ""
+          }
+        },
+        "block_6": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/new-balance-3.jpg",
+            "image_width": 100,
+            "brand_link": "shopify://collections/new-balance"
+          }
+        },
+        "block_7": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/doctors-best-1.jpg",
+            "image_width": 100,
+            "brand_link": "shopify://collections/doctors-best"
+          }
+        },
+        "column_NMznNH": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/massimo-dutti-3.jpg",
+            "image_width": 100,
+            "brand_link": "shopify://collections/massimo-dutti"
+          }
+        },
+        "block_8": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_1": "shopify://shop_images/zara-gray.webp",
+            "image_width": 100,
+            "brand_link": ""
+          }
+        },
+        "column_RKTMeg": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/solgar-2.jpg",
+            "image_width": 100,
+            "brand_link": "shopify://collections/solgar"
+          }
+        },
+        "column_xFApwJ": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/apple-3.jpg",
+            "image_width": 100,
+            "brand_link": "shopify://collections/apple-1"
+          }
+        },
+        "column_xbGKh4": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_1": "shopify://shop_images/asos-gray.webp",
+            "image_width": 100,
+            "brand_link": ""
+          }
+        },
+        "column_EBJ4r3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image_width": 60,
+            "brand_link": ""
+          }
+        },
+        "column_EAPbcU": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/now-foods-3.jpg",
+            "image_width": 100,
+            "brand_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_1",
+        "block_2",
+        "block_3",
+        "column_fjdgPJ",
+        "block_4",
+        "column_EPEzEr",
+        "block_5",
+        "block_6",
+        "block_7",
+        "column_NMznNH",
+        "block_8",
+        "column_RKTMeg",
+        "column_xFApwJ",
+        "column_xbGKh4",
+        "column_EBJ4r3",
+        "column_EAPbcU"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "border_top": false,
+        "border_bottom": false,
+        "padding_top": "s",
+        "padding_bottom": "s"
+      }
+    },
+    "featured_products_RFiAtq": {
+      "type": "featured-products",
+      "settings": {
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "Trending Deals",
+        "heading_size": "h2",
+        "show_info": false,
+        "info_subheading": "Subheading",
+        "info_heading": "Heading",
+        "info_heading_size": "h2",
+        "text": "",
+        "show_button": false,
+        "button_style": "primary",
+        "button_label": "Explore Our Store",
+        "button_link": "shopify://collections",
+        "product_list": [
+          "acetyl-l-carnitine-jarrow-formulas-500-mg-120-capsules",
+          "action-camera-dji-osmo-action-3-adventure-combo",
+          "action-camera-insta360-x3-standalone-black",
+          "action-camera-sjcam-sj4000-air-black",
+          "adidas-advantage-base-sneakers-white",
+          "action-camera-dji-osmo-action-3-biking-combo"
+        ],
+        "columns_mobile": "2",
+        "image_ratio": "landscape",
+        "image_fit": "contain",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_desc": false,
+        "show_sku": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "s"
+      }
+    },
+    "rich_text_98Jx9Y": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wYfPqP": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Best Prices</p>",
+            "heading_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wYfPqP"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "xs"
+      }
+    },
+    "cards-grid": {
+      "type": "cards-grid",
+      "blocks": {
+        "column_y6bfxw": {
+          "type": "column",
+          "settings": {
+            "column_start": 1,
+            "column_end": 2,
+            "row_start": "unset",
+            "row_end": "unset",
+            "min_height": "medium",
+            "padding": "small",
+            "image": "shopify://shop_images/3d-illustration-new-generation-game-controller-blue-pink_7ca002d3-382e-48d9-9405-ceaf46b19941.jpg",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "bottom-gradient",
+            "effect_opacity": 0.2,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "light",
+            "subheading": "Game consoles",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Play Like a Pro",
+            "heading_size": "h3",
+            "heading_width": 50,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": "shopify://collections/game-consoles-and-products-for-gamers"
+          }
+        },
+        "block_2": {
+          "type": "column",
+          "settings": {
+            "column_start": 4,
+            "column_end": 5,
+            "row_start": "1",
+            "row_end": "unset",
+            "min_height": "medium",
+            "padding": "large",
+            "image": "shopify://shop_images/brandori_s.png",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "overlay",
+            "effect_opacity": 0.3,
+            "enable_mobile_overlay": true,
+            "text_align": "bottom-left",
+            "text_color_scheme": "light",
+            "subheading": "Electronics",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Best Prices",
+            "heading_size": "h1",
+            "heading_width": 100,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": "shopify://collections/electronics"
+          }
+        },
+        "block_4": {
+          "type": "column",
+          "settings": {
+            "column_start": 2,
+            "column_end": 4,
+            "row_start": "auto",
+            "row_end": "unset",
+            "min_height": "medium",
+            "padding": "small",
+            "image": "shopify://shop_images/108508.jpg",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "right-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "bottom-gradient",
+            "effect_opacity": 0.1,
+            "enable_mobile_overlay": true,
+            "text_align": "bottom-left",
+            "text_color_scheme": "light",
+            "subheading": "SMART WATCH",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Style and Functionality",
+            "heading_size": "h2",
+            "heading_width": 100,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": "shopify://collections/smart-watches-and-bracelets"
+          }
+        },
+        "column_3JLP9k": {
+          "type": "column",
+          "settings": {
+            "column_start": 1,
+            "column_end": 2,
+            "row_start": "unset",
+            "row_end": "unset",
+            "min_height": "medium",
+            "padding": "small",
+            "image": "shopify://shop_images/closeup-pair-iceskates.jpg",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "none",
+            "effect_opacity": 0.4,
+            "enable_mobile_overlay": false,
+            "text_align": "top-left",
+            "text_color_scheme": "light",
+            "subheading": "shoes",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#55137c",
+            "heading": "Trendy & Stylish",
+            "heading_size": "h3",
+            "heading_width": 50,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "shopify://collections/shoes",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": "shopify://collections/shoes"
+          }
+        },
+        "column_Qw8R6f": {
+          "type": "column",
+          "settings": {
+            "column_start": 2,
+            "column_end": 3,
+            "row_start": "unset",
+            "row_end": "unset",
+            "min_height": "small",
+            "padding": "small",
+            "image": "shopify://shop_images/new-drill-closeup-isolated-black-background-power-tools-concept_1_c4cea942-e2fa-4957-b235-187f0e4ab91a.jpg",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "none",
+            "effect_opacity": 0.4,
+            "enable_mobile_overlay": false,
+            "text_align": "bottom-left",
+            "text_color_scheme": "light",
+            "subheading": "Construction and repair",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Let's Changes Begin",
+            "heading_size": "h3",
+            "heading_width": 50,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "shopify://collections/construction-and-repair",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": "shopify://collections/construction-and-repair"
+          }
+        },
+        "column_kHa4Vb": {
+          "type": "column",
+          "settings": {
+            "column_start": 3,
+            "column_end": 5,
+            "row_start": "unset",
+            "row_end": "unset",
+            "min_height": "small",
+            "padding": "small",
+            "image": "shopify://shop_images/334.png",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "none",
+            "effect_opacity": 0.3,
+            "enable_mobile_overlay": false,
+            "text_align": "top-left",
+            "text_color_scheme": "light",
+            "subheading": "MOTOTECHNICS",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Adrenaline and Freedom",
+            "heading_size": "h2",
+            "heading_width": 50,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "shopify://collections/moto-equipment",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": "shopify://collections/moto-equipment"
+          }
+        }
+      },
+      "block_order": [
+        "column_y6bfxw",
+        "block_2",
+        "block_4",
+        "column_3JLP9k",
+        "column_Qw8R6f",
+        "column_kHa4Vb"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns": 4,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "featured_products_AyC7wB": {
+      "type": "featured-products",
+      "settings": {
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "show_info": true,
+        "info_subheading": "best price",
+        "info_heading": "Apple",
+        "info_heading_size": "h2",
+        "text": "Early Access to New Releases",
+        "show_button": true,
+        "button_style": "primary",
+        "button_label": "Shop Now",
+        "button_link": "shopify://collections/apple-1",
+        "product_list": [
+          "all-in-one-apple-imac-24-2021-mgpd3b-a-8gb-512gb-silver",
+          "apple-airpods-max-over-ear-headphones-space-gray",
+          "apple-airpods-pro-2-wireless-headphones-white",
+          "apple-mac-mini-m2-pro-desktop-2023-10gb-ethernet-16gb-1tb-silver",
+          "smart-speaker-apple-homepod-mini-orange",
+          "apple-iphone-14-pro-case-with-magsafe-transparent",
+          "apple-watch-series-8-gps-45-mm-silver-white",
+          "apple-magic-keyboard-white",
+          "apple-smart-keyboard-folio-for-ipad-pro-11-black",
+          "laptop-apple-macbook-air-13-3-2020-mgn63b-a-m1-8gb-256gb-space-gray"
+        ],
+        "columns_mobile": "2",
+        "image_ratio": "landscape",
+        "image_fit": "contain",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_desc": false,
+        "show_sku": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "s",
+        "padding_bottom": "s"
+      }
+    },
+    "product_slider_tabs_mUVib4": {
+      "type": "product-slider-tabs",
+      "blocks": {
+        "product_slide_AmcN7B": {
+          "type": "product_slide",
+          "settings": {
+            "thumbs_heading": "Electronics",
+            "image": "shopify://shop_images/26516.jpg",
+            "subheading": "Virtual reality glasses",
+            "color_text": "#262626",
+            "show_subheading_dot": true,
+            "color_dot": "#5e0d8f",
+            "heading": "DISCOVER A NEW WORLD",
+            "text": "Feel the magic of virtual reality",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/virtual-reality-glasses"
+          }
+        },
+        "product_slide_HWBdVp": {
+          "type": "product_slide",
+          "settings": {
+            "thumbs_heading": "Shoes",
+            "image": "shopify://shop_images/a577de18a02c2882861b6e3667e7f0a2_397adcf9-e053-496a-b913-ec91ac8a2455.png",
+            "subheading": "Women's shoes",
+            "color_text": "#262626",
+            "show_subheading_dot": true,
+            "color_dot": "#5e0d8f",
+            "heading": "STEP INTO STYLE",
+            "text": "Discover the latest shoe trends",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/womens-shoes"
+          }
+        },
+        "product_slide_34knhE": {
+          "type": "product_slide",
+          "settings": {
+            "thumbs_heading": "Clothing",
+            "image": "shopify://shop_images/clothes-concept-women-wear-hanging-dried-tree-branch-shadow-shading-white-wall.jpg",
+            "subheading": "Clothing",
+            "color_text": "#262626",
+            "show_subheading_dot": true,
+            "color_dot": "#5e0d8f",
+            "heading": "SHOP THE LATEST FASHION TRENDS",
+            "text": "Your style, your freedom",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/clothing"
+          }
+        },
+        "product_slide_ckdnMP": {
+          "type": "product_slide",
+          "settings": {
+            "thumbs_heading": "Children's goods",
+            "image": "shopify://shop_images/knitted-toy-bunny-yellow-stars-wooden-teether-newborn-white-bed-baby-stuff-accessories.jpg",
+            "subheading": "Toys",
+            "color_text": "#262626",
+            "show_subheading_dot": true,
+            "color_dot": "#5e0d8f",
+            "heading": "A LIFE FULL OF GAMES",
+            "text": "Even an adult can't resist",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/toys"
+          }
+        }
+      },
+      "block_order": [
+        "product_slide_AmcN7B",
+        "product_slide_HWBdVp",
+        "product_slide_34knhE",
+        "product_slide_ckdnMP"
+      ],
+      "settings": {
+        "color_scheme": "3",
+        "desktop_alignment": "left",
+        "mobile_alignment": "before",
+        "slide_duration": 5,
+        "overlay": true,
+        "opacity_overlay": 0.2,
+        "image_width": "medium",
+        "object_fit": "cover",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "popular-products": {
+      "type": "popular-products",
+      "settings": {
+        "heading": "Bestsellers",
+        "collection_list": [
+          "smartphones",
+          "sneakers"
+        ],
+        "products_limit": 9,
+        "products_to_show": 3,
+        "filter": true,
+        "filter_type": "tags",
+        "show_vendor": false,
+        "show_sku": false,
+        "image_ratio": "square",
+        "image_fit": "contain",
+        "padding_top": "s",
+        "padding_bottom": "s"
+      }
+    },
+    "categories-list": {
+      "type": "categories-list",
+      "blocks": {
+        "collection_1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "smartphones"
+          }
+        },
+        "collection_2": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "shoes"
+          }
+        },
+        "collection_3": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "toys"
+          }
+        },
+        "collection_4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "monitors"
+          }
+        },
+        "collection_5": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "body-care"
+          }
+        },
+        "collection_6": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "womens-accessories"
+          }
+        }
+      },
+      "block_order": [
+        "collection_1",
+        "collection_2",
+        "collection_3",
+        "collection_4",
+        "collection_5",
+        "collection_6"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "heading": "Popular Collections",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "collections_to_show": 6,
+        "padding_top": "s",
+        "padding_bottom": "m"
+      }
+    },
+    "a569544e-3aba-492f-a6a1-aa3988de4cef": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-0": {
+          "type": "accordion",
+          "settings": {
+            "question": "Who can place an order through Brandoris?",
+            "answer": "<p>Anyone with a valid passport can place an order</p>",
+            "opened": true
+          }
+        },
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-1": {
+          "type": "accordion",
+          "settings": {
+            "question": "How long should I wait?",
+            "answer": "<p>Delivery of the order is carried out within 14 days. Due to the nature of international transportation, delivery time may be extended.</p>",
+            "opened": false
+          }
+        },
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-2": {
+          "type": "accordion",
+          "settings": {
+            "question": "Can I pay for the goods upon receipt?",
+            "answer": "<p>We are not an online store and act as an agent between the client and the seller, purchasing goods individually for each client. In this regard, 100% prepayment is required.</p>",
+            "opened": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-0",
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-1",
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-2"
+      ],
+      "settings": {
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "text": "",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "s",
+        "padding_bottom": "s"
+      }
+    },
+    "rich_text_DnHabY": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_hEXcYW": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "heading_iPVqnP": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Heading for your section</p>",
+            "heading_size": "medium"
+          }
+        },
+        "text_jDdCzF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Description for your section.</p>"
+          }
+        },
+        "button_kRLd7J": {
+          "type": "button",
+          "settings": {
+            "button_label": "More",
+            "button_link": "shopify://pages/faq",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hEXcYW",
+        "heading_iPVqnP",
+        "text_jDdCzF",
+        "button_kRLd7J"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "s",
+        "padding_bottom": "m"
+      }
+    },
+    "countdown_MXkL6Y": {
+      "type": "countdown",
+      "disabled": true,
+      "settings": {
+        "section_type": "with_overlay",
+        "date_picker": "2024-05-01",
+        "time_picker": "00:00",
+        "cursive_date": true,
+        "countdown_block_font": 30,
+        "completed_countdown": "hide_section",
+        "countdown_heading": "<p>Header after countdown</p>",
+        "image": "shopify://shop_images/brandoris32_bab579c3-9751-48f1-875a-9df109da5830.png",
+        "opacity_overlay": 0.3,
+        "heading": "Some header",
+        "text": "Some description.",
+        "show_link": true,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "cards_grid_9dzNRz",
+    "brands",
+    "featured_products_RFiAtq",
+    "rich_text_98Jx9Y",
+    "cards-grid",
+    "featured_products_AyC7wB",
+    "product_slider_tabs_mUVib4",
+    "popular-products",
+    "categories-list",
+    "a569544e-3aba-492f-a6a1-aa3988de4cef",
+    "rich_text_DnHabY",
+    "countdown_MXkL6Y"
+  ]
+}

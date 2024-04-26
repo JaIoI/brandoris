@@ -1,0 +1,74 @@
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "image_fit": "contain",
+        "show_vendor": false,
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {
+          }
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "subtotal",
+        "buttons"
+      ],
+      "settings": {
+        "show_cart_note": false,
+        "padding_top": "no-indent",
+        "padding_bottom": "s"
+      }
+    },
+    "featured_products_q3g4QT": {
+      "type": "featured-products",
+      "settings": {
+        "color_scheme": "background-1",
+        "subheading": "Subheading",
+        "heading": "Heading",
+        "heading_size": "h2",
+        "show_info": false,
+        "info_subheading": "Subheading",
+        "info_heading": "Heading",
+        "info_heading_size": "h2",
+        "text": "Some description",
+        "show_button": false,
+        "button_style": "primary",
+        "button_label": "Explore Our Store",
+        "button_link": "",
+        "product_list": [
+
+        ],
+        "columns_mobile": "2",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_desc": false,
+        "show_sku": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "cart-items",
+    "cart-footer",
+    "featured_products_q3g4QT"
+  ]
+}

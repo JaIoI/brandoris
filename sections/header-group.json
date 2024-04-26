@@ -1,0 +1,113 @@
+{
+  "type": "header",
+  "name": "t:sections.header.settings.header-group.label",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {
+        "height": 40,
+        "height_mobile": 40,
+        "color_scheme": "1",
+        "text": "<p>EARLY ACCESS TO NEW RELEASES</p><h2></h2>",
+        "image": "shopify://shop_images/rr.epdeng.png"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "dropdown_cHaX9k": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "shop_button_label": "Shop Now",
+            "shop_button_menu": "shop-now",
+            "button_style": "secondary",
+            "show_promo_1": false,
+            "color_scheme_1": "dark",
+            "heading_1": "Virtual Reality",
+            "description_1": "",
+            "image_1": "shopify://shop_images/26516.jpg",
+            "overlay_opacity_1": 0,
+            "show_button_1": true,
+            "button_link_1": "shopify://products/slem-virtualnoi-realnosti-oculus-quest-2-256gb-belyi",
+            "button_label_1": "Button label",
+            "button_style_1": "secondary",
+            "text_1": "",
+            "text_accent_1": "",
+            "show_promo_2": false,
+            "color_scheme_2": "dark",
+            "heading_2": "",
+            "description_2": "",
+            "image_2": "shopify://shop_images/brandoris32_bab579c3-9751-48f1-875a-9df109da5830.png",
+            "overlay_opacity_2": 0,
+            "show_button_2": false,
+            "button_link_2": "",
+            "button_label_2": "Button label",
+            "button_style_2": "primary",
+            "text_2": "",
+            "text_accent_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_cHaX9k"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "header_type": "bottom-menu",
+        "color_scheme": "background-2",
+        "logo": "shopify://shop_images/45rth.png",
+        "logo_2": "shopify://shop_images/svd.png",
+        "logo_width": 150,
+        "menu": "main-menu",
+        "small_menu": "small-menu",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "sticky_header_type": "on-scroll-up",
+        "enable_contact_block": false,
+        "contact_text": "Description",
+        "contact_text_accent": "<p>Contact info</p>",
+        "enable_search": true,
+        "enable_search_modal": true,
+        "show_collection_card": true,
+        "collection_list": [
+          "electronics",
+          "apple-1",
+          "laptops",
+          "sneakers",
+          "perfume",
+          "dyson"
+        ],
+        "show_items": true,
+        "product_list": [
+          "adidas-originals-gazelle-unisex-sneakers-crimson-white",
+          "all-in-one-apple-imac-24-2021-mjva3ll-a-8gb-256gb-pink",
+          "air-purifier-dyson-bp04-blue-copper"
+        ],
+        "show_vendor": false,
+        "show_price": true,
+        "items_link": "shopify://collections",
+        "show_articles": false,
+        "blog": "",
+        "show_image": false,
+        "show_date": false,
+        "blog_link": "",
+        "show_search_block": false,
+        "search_image": "shopify://shop_images/5w.png",
+        "search_color_scheme": "dark",
+        "search_heading": "Heading",
+        "search_text": "Text",
+        "search_text_accent": "Accent text",
+        "button_link": "",
+        "button_label": "Button label",
+        "button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

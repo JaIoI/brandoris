@@ -1,0 +1,222 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_dniMEX": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_me6Dan": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "text_4rRDBa": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Description for your section.</p>"
+          }
+        },
+        "button_wEazNm": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_me6Dan",
+        "text_4rRDBa",
+        "button_wEazNm"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "collapsible_content_gAQtpy": {
+      "type": "collapsible-content",
+      "blocks": {
+        "accordion_RmaA3d": {
+          "type": "accordion",
+          "settings": {
+            "question": "Who can place an order through Brandoris?",
+            "answer": "<p>Anyone with a valid passport can place an order</p>",
+            "opened": true
+          }
+        },
+        "accordion_gA4bJR": {
+          "type": "accordion",
+          "settings": {
+            "question": "How long should I wait?",
+            "answer": "<p>Delivery of the order is carried out within 14 days. Due to the nature of international transportation, delivery time may be extended.</p>",
+            "opened": false
+          }
+        },
+        "accordion_3Qkxyi": {
+          "type": "accordion",
+          "settings": {
+            "question": "Can I pay for the goods upon receipt?",
+            "answer": "<p>We are not an online store and act as an agent between the client and the seller, purchasing goods individually for each client. In this regard, 100% prepayment is required.</p>",
+            "opened": false
+          }
+        },
+        "accordion_4MXY3E": {
+          "type": "accordion",
+          "settings": {
+            "question": "What’s included in the final price?",
+            "answer": "<p>Product price, product search, additional packaging of fragile goods, customs clearance and door-to-door delivery are all included in the price we offer you. No additional charges</p>",
+            "opened": false
+          }
+        },
+        "accordion_cCLtmY": {
+          "type": "accordion",
+          "settings": {
+            "question": "How to ensure product authenticity?",
+            "answer": "<p>We only purchase from official online stores, guaranteeing authenticity. When you submit a request to purchase a specific item from a particular store, we always ensure the source is reliable. If we cannot guarantee the store's reliability, we will suggest an alternative purchase source that has proven itself as a platform with original products</p>",
+            "opened": false
+          }
+        },
+        "accordion_CJQqaG": {
+          "type": "accordion",
+          "settings": {
+            "question": "How to pay for the order?",
+            "answer": "<p>Payment can be made with any bank card from your country</p>",
+            "opened": false
+          }
+        },
+        "accordion_eVErQm": {
+          "type": "accordion",
+          "settings": {
+            "question": "Can I track the shipment?",
+            "answer": "<p>Yes, a tracking number will be sent to you once the item is dispatched</p>",
+            "opened": false
+          }
+        },
+        "accordion_7BgjVx": {
+          "type": "accordion",
+          "settings": {
+            "question": "What if the product doesn't suit me?",
+            "answer": "<p>If the product is different from your order or defective, reject it and reach out to us for a solution. Keep in mind, returns for products that aren't defective but don't meet your expectations aren't possible through our service</p>",
+            "opened": false
+          }
+        },
+        "accordion_PNjWLi": {
+          "type": "accordion",
+          "settings": {
+            "question": "Can I cancel an order?",
+            "answer": "<p>You can cancel an order before the product is purchased, and we will refund your money, deducting the cash-payment services fee. Once the product is purchased, cancellation is not possible</p>",
+            "opened": false
+          }
+        },
+        "accordion_QVFJB6": {
+          "type": "accordion",
+          "settings": {
+            "question": "Is the manufacturer's warranty applicable?",
+            "answer": "<p>Yes, for warranty claims, contact the manufacturer directly</p>",
+            "opened": false
+          }
+        },
+        "accordion_8r6pct": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "question": "For further inquiries, contact us at buyout@cdek.shopping",
+            "answer": "",
+            "opened": false
+          }
+        }
+      },
+      "block_order": [
+        "accordion_RmaA3d",
+        "accordion_gA4bJR",
+        "accordion_3Qkxyi",
+        "accordion_4MXY3E",
+        "accordion_cCLtmY",
+        "accordion_CJQqaG",
+        "accordion_eVErQm",
+        "accordion_7BgjVx",
+        "accordion_PNjWLi",
+        "accordion_QVFJB6",
+        "accordion_8r6pct"
+      ],
+      "settings": {
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "text": "",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "rich_text_aBRkqw": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_DbLznh": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "For further inquiries, contact us at buyout@cdek.shopping"
+          }
+        },
+        "heading_WnaVPz": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Heading for your section</p>",
+            "heading_size": "medium"
+          }
+        },
+        "text_EGDaWp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For further inquiries, <a href=\"/pages/contact\" title=\"Contact\">contact us here</a> or mail us <a href=\"mailto:buyout@brandoris.mx\" title=\"mailto:buyout@brandoris.mx\">buyout@brandoris.mx </a>  </p>"
+          }
+        },
+        "button_rAzxYb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DbLznh",
+        "heading_WnaVPz",
+        "text_EGDaWp",
+        "button_rAzxYb"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_dniMEX",
+    "collapsible_content_gAQtpy",
+    "rich_text_aBRkqw"
+  ]
+}

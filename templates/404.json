@@ -1,0 +1,170 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    },
+    "cards_grid_hPdLkd": {
+      "type": "cards-grid",
+      "blocks": {
+        "column_9J7zM8": {
+          "type": "column",
+          "settings": {
+            "column_start": 1,
+            "column_end": 5,
+            "row_start": "1",
+            "row_end": "3",
+            "min_height": "small",
+            "padding": "large",
+            "image": "shopify://shop_images/eg.png",
+            "image_size": "contain",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "none",
+            "effect_opacity": 0,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "dark",
+            "subheading": "",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "",
+            "heading_size": "h3",
+            "heading_width": 20,
+            "text": "",
+            "text_size": "small",
+            "text_width": 20,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9J7zM8"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns": 4,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "rich_text_hcE8hB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MTQdMt": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Page not found</p>",
+            "heading_size": "large"
+          }
+        },
+        "text_mCqxzR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It seems that the page you are referring to is currently unavailable.<br/>Try searching or return to the Home page.</p>"
+          }
+        },
+        "button_qRFrDR": {
+          "type": "button",
+          "settings": {
+            "button_label": "HOME PAGE",
+            "button_link": "https://brandoris.mx",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MTQdMt",
+        "text_mCqxzR",
+        "button_qRFrDR"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "s"
+      }
+    },
+    "categories_list_G7qBMC": {
+      "type": "categories-list",
+      "blocks": {
+        "collection_item_txqDnm": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "accessories"
+          }
+        },
+        "collection_item_meWhhJ": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "antioxidants"
+          }
+        },
+        "collection_item_wGG9LA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "clothes-shoes"
+          }
+        },
+        "collection_item_kgwTLm": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "computer-cases"
+          }
+        },
+        "collection_item_RfLXiT": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "apple"
+          }
+        },
+        "collection_item_Q4pjeq": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "eau-de-toilette"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_txqDnm",
+        "collection_item_meWhhJ",
+        "collection_item_wGG9LA",
+        "collection_item_kgwTLm",
+        "collection_item_RfLXiT",
+        "collection_item_Q4pjeq"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "heading": "Best sellers",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "collections_to_show": 6,
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "cards_grid_hPdLkd",
+    "rich_text_hcE8hB",
+    "categories_list_G7qBMC"
+  ]
+}
