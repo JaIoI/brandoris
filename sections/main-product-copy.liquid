@@ -1169,8 +1169,8 @@
                 </div>
 
               {% when 'parameters' %}
-                {% assign trade_item_description = product.metafields.import_information.trade_item_description.value %}
-                {%- if trade_item_description.size > 0 -%}
+                {% assign item_description = product.metafields.import_information.item_description.value %}
+                {%- if item_description.size > 0 -%}
                   <div class="advantage advantage-text" {{ block.shopify_attributes }}>
                     <div class="advantage__wrapper">
                       <div class="advantage__icon">
@@ -1201,7 +1201,7 @@
                           <span>{{ block.settings.heading | escape }}</span>
                         </div>
                         <div class="advantage__text">
-                          {{ trade_item_description | escape }}
+                          {{ item_description | html }}
                         </div>
                       </div>
                     </div>
