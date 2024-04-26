@@ -103,6 +103,7 @@
         },
         "advantage_3": {
           "type": "advantage",
+          "disabled": true,
           "settings": {
             "delivery_country_flag": false,
             "color_scheme": "colored",
@@ -116,6 +117,7 @@
         },
         "advantage_KPEPXa": {
           "type": "advantage",
+          "disabled": true,
           "settings": {
             "delivery_country_flag": false,
             "color_scheme": "black",
