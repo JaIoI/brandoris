@@ -11,33 +11,21 @@
             "blog_show_author": false,
             "blog_show_date": false,
             "image_height": "medium",
-            "show_share_facebook": true,
-            "show_share_twitter": true,
-            "show_share_pinterest": true,
-            "show_share_copy": true
+            "show_share_facebook": false,
+            "show_share_twitter": false,
+            "show_share_pinterest": false,
+            "show_share_copy": false
           }
         },
         "content": {
           "type": "content",
           "settings": {
           }
-        },
-        "article_footer": {
-          "type": "article-footer",
-          "settings": {
-            "blog_show_date": false,
-            "blog_show_author": false,
-            "show_share_facebook": true,
-            "show_share_twitter": true,
-            "show_share_pinterest": true,
-            "show_share_copy": true
-          }
         }
       },
       "block_order": [
         "title",
-        "content",
-        "article_footer"
+        "content"
       ],
       "settings": {
         "header_variant": "overlay",
