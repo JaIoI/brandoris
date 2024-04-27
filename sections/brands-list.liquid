@@ -1,10 +1,11 @@
 <div class="container">
-	{% for collection in collections %}
-		{% for vendor in collection.all_vendors %}
-			<div>{{ vendor }}</div>
-		{% endfor %}
-	{% endfor %}
+	<p class="brands-list-container">
+		{%- for product_vendor in shop.vendors -%}
+			{{ product_vendor | link_to_vendor }}
+		{%- endfor -%}
+	</p>
 </div>
+
 {% schema %}
 {
 	"name": "Brands list",
