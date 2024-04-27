@@ -134,9 +134,8 @@
                     {%- endif -%}
                   </a>
                   <div class="footer__copyright">
-                    <small class="copyright__content">&copy; Copyright,</small>
                     <small class="copyright__content">
-                      {{- shop.name | link_to: routes.root_url }},
+                      {{- shop.name | link_to: routes.root_url }}
                       {{ 'now' | date: '%Y' -}}
                     </small>
                     <small class="copyright__content">
