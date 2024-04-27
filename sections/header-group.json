@@ -58,9 +58,8 @@
       "settings": {
         "header_type": "bottom-menu",
         "color_scheme": "background-2",
-        "logo": "shopify://shop_images/45rth.png",
-        "logo_2": "shopify://shop_images/svd.png",
-        "logo_width": 150,
+        "logo": "shopify://shop_images/wd_cde9ac7f-eef3-4a8d-964b-346f054f21ab.png",
+        "logo_width": 180,
         "menu": "main-menu",
         "small_menu": "small-menu",
         "enable_country_selector": true,

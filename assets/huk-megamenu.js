@@ -275,9 +275,12 @@ if ( !jQuery.isFunction(jQuery.fn.lazyload) ) {
 				}
 				if (typeof hukshop_local !== 'undefined' && typeof huk_menu_translate !== 'undefined' && typeof config.group_menu.translate !== 'undefiend' && config.group_menu.translate) {
                   
-                  desktop_selector = '.header__inline-menu > .list-menu';
+                  //desktop_selector = '.header__inline-menu > .list-menu';
 					if (typeof huk_menu_translate[hukshop_local] !== 'undefined') {
-                      console.log('ok translate1', $('.header__inline-menu > .list-menu [data-huk-translate]').length);
+                      //console.log('ok translate1', $('.header__inline-menu > .list-menu [data-huk-translate]').length);
+                      $(desktop_selector+ ' .huk_menu_item_link').each(function(){
+                        //$(this).attr('href', hukshop_local+''+$(this).attr('href'));
+                      });
 						$(desktop_selector+ ' [data-huk-translate]').each(function(){
                            console.log('ok translate', desktop_selector);
 							var textval = SCABase64.encode($(this).text());

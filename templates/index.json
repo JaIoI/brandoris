@@ -11,7 +11,7 @@
             "row_start": "1",
             "row_end": "unset",
             "min_height": "large",
-            "padding": "large",
+            "padding": "small",
             "image": "shopify://shop_images/oiuh0.png",
             "image_size": "cover",
             "icon_size": "cover",
@@ -23,11 +23,11 @@
             "enable_mobile_overlay": false,
             "text_align": "left",
             "text_color_scheme": "light",
-            "subheading": "BRANDORIS",
+            "subheading": "",
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#55137c",
-            "heading": "LET'S SHOPPING",
+            "heading": "LET'S GO SHOPPING",
             "heading_size": "h1",
             "heading_width": 60,
             "text": "CHECK OUT THE MOST POPULAR PRODUCTS",
@@ -36,10 +36,10 @@
             "show_button": true,
             "button_label": "GO TO BRANDS",
             "button_link": "shopify://pages/brands",
-            "style_button": "tag subtitle",
+            "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": ""
+            "card_link": "shopify://pages/brands"
           }
         }
       },
@@ -232,7 +232,7 @@
         "info_heading_size": "h2",
         "text": "",
         "show_button": false,
-        "button_style": "primary",
+        "button_style": "secondary",
         "button_label": "Explore Our Store",
         "button_link": "shopify://collections",
         "product_list": [
@@ -544,7 +544,7 @@
         "heading_size": "h2",
         "show_info": true,
         "info_subheading": "best price",
-        "info_heading": "Apple",
+        "info_heading": "Iphone and MacBook",
         "info_heading_size": "h2",
         "text": "Early Access to New Releases",
         "show_button": true,

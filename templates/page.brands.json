@@ -5,15 +5,68 @@
       "settings": {
       }
     },
-    "brands_list": {
-      "type": "brands-list",
+    "categories_list_wmyz4x": {
+      "type": "categories-list",
+      "blocks": {
+        "collection_item_ztkGJ4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "apple"
+          }
+        },
+        "collection_item_EhQQK6": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_item_4yVMpY": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_item_Dkwwep": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_item_niaERq": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_item_M7r47z": {
+          "type": "collection_item",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_ztkGJ4",
+        "collection_item_EhQQK6",
+        "collection_item_4yVMpY",
+        "collection_item_Dkwwep",
+        "collection_item_niaERq",
+        "collection_item_M7r47z"
+      ],
+      "disabled": true,
       "settings": {
-
+        "color_scheme": "background-1",
+        "heading": "",
+        "image_ratio": "landscape",
+        "image_fit": "cover",
+        "collections_to_show": 6,
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
       }
     }
   },
   "order": [
     "main",
-    "brands_list"
+    "categories_list_wmyz4x"
   ]
 }
