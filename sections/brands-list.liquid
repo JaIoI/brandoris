@@ -1,9 +1,38 @@
 <div class="container">
-	<p class="brands-list-container">
+	<div class="brands-list-container">
+		{% assign letters = '' %}
 		{%- for product_vendor in shop.vendors -%}
-			{{ product_vendor | link_to_vendor }}
+		{% assign first_letter = product_vendor | slice: 0 | upcase %}
+			{% assign letters = letters | append: first_letter %}
+			{% assign letters_size = letters | size | minus: 2 %}
+			{% assign last_letter = letters | slice: letters_size | upcase %}
+
+			{% if first_letter == '0' or
+						first_letter == '1' or
+						first_letter == '2' or
+						first_letter == '3' or
+						first_letter == '4' or
+						first_letter == '5' or
+						first_letter == '6' or
+						first_letter == '7' or
+						first_letter == '8' or
+						first_letter == '9' %}
+					{% if	forloop.index == 1 %}
+						<h3 class="divider">0-9</h3>
+					{% endif %}
+					<div class="brand">
+						{{ product_vendor | link_to_vendor }}
+					</div>
+				{% else %}
+				{% if first_letter != last_letter %}
+					<h3 class="divider">{{ first_letter }}</h3>
+				{% endif %}
+				<div class="brand">
+					{{ product_vendor | link_to_vendor }}
+				</div>
+			{% endif %}
 		{%- endfor -%}
-	</p>
+	</div>
 </div>
 
 {% schema %}
