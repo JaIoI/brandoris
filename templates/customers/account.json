@@ -3,17 +3,33 @@
     "main": {
       "type": "main-account",
       "settings": {
+        "heading_orders": "Some heading for empty order history placeholder",
+        "text_orders": "Some text for empty order history placeholder",
+        "heading_addresses": "Some heading for empty order history placeholder",
+        "text_addresses": "Some text for empty order history placeholder",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "no-indent"
       }
     },
     "popular-products": {
       "type": "popular-products",
       "settings": {
         "heading": "<p>You May be Interested</p>",
+        "collection_list": [
+          "electronics"
+        ],
         "products_limit": 4,
+        "products_to_show": 4,
         "filter": false,
+        "filter_type": "collections",
         "show_vendor": true,
-        "image_ratio": "landscape",
-        "image_fit": "cover"
+        "show_sku": false,
+        "image_ratio": "square",
+        "image_fit": "contain",
+        "padding_top": "m",
+        "padding_bottom": "m"
       }
     }
   },

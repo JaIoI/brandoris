@@ -35,6 +35,7 @@
     },
     "featured_products_q3g4QT": {
       "type": "featured-products",
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "subheading": "Subheading",

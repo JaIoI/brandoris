@@ -76,7 +76,7 @@
     "quickview_button_style": "primary",
     "predictive_search_show_vendor": true,
     "pagination_type": "load_more",
-    "cart_type": "drawer",
+    "cart_type": "page",
     "show_back_to_top": true,
     "show_breadcrumbs": true,
     "checkout_logo_image": "shopify://shop_images/logo3.png",
