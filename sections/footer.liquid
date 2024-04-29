@@ -138,9 +138,11 @@
                       &copy; {{ shop.name | link_to: routes.root_url }}
                       {{ 'now' | date: '%Y' -}}
                     </small>
+                    {% comment %}
                     <small class="copyright__content">
                       {{- powered_by_link -}}
                     </small>
+                    {% endcomment %}
                   </div>
                 </div>
               {%- when 'contacts' -%}
