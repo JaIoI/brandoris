@@ -35,11 +35,11 @@
             "text_width": 100,
             "show_button": true,
             "button_label": "GO TO BRANDS",
-            "button_link": "shopify://pages/brands",
+            "button_link": "shopify://pages/marcas",
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": "shopify://pages/brands"
+            "card_link": "shopify://pages/marcas"
           }
         }
       },
@@ -819,7 +819,7 @@
           "type": "button",
           "settings": {
             "button_label": "More",
-            "button_link": "shopify://pages/faq",
+            "button_link": "shopify://pages/preguntas-mas-frecuentes",
             "button_style": "primary"
           }
         }
