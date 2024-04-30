@@ -8,6 +8,7 @@
         "image": "featured_image",
         "show_collection_description": false,
         "show_collection_image": false,
+        "image_products": "shopify://shop_images/33528e700a9b43c5a43e978016fcdec8.jpg",
         "opacity_overlay": 0,
         "opacity_overlay_mobile": 0.2,
         "margin_top": "xs",
