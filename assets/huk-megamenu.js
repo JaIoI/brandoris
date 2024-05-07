@@ -278,9 +278,32 @@ if ( !jQuery.isFunction(jQuery.fn.lazyload) ) {
                   //desktop_selector = '.header__inline-menu > .list-menu';
 					if (typeof huk_menu_translate[hukshop_local] !== 'undefined') {
                       //console.log('ok translate1', $('.header__inline-menu > .list-menu [data-huk-translate]').length);
-                      $(desktop_selector+ ' .huk_menu_item_link').each(function(){
-                        //$(this).attr('href', hukshop_local+''+$(this).attr('href'));
-                      });
+                      if( hukshop_local !== 'es') {
+                        $(desktop_selector+ ' .huk_menu_item_link').each(function(){
+                          var tmpurl = $(this).attr('href');
+                          if((tmpurl.indexOf('https://') == -1) && tmpurl.indexOf('http://') == -1){
+                            //console.log(tmpurl);
+                           $(this).attr('href', '/'+hukshop_local+''+tmpurl); 
+                          } else if(tmpurl.indexOf('https://brandoris.mx/') !== -1) {
+                            if(tmpurl.indexOf('https://brandoris.mx/'+hukshop_local) == -1) {
+                              tmpurl = tmpurl.split('https://brandoris.mx');
+                              $(this).attr('href', '/'+hukshop_local+''+tmpurl[1]);
+                            }
+                          }
+                        });
+                        $(mobile_selector+ ' .huk_menu_item_link').each(function(){
+                          var tmpurl = $(this).attr('href');
+                          if((tmpurl.indexOf('https://') == -1) && tmpurl.indexOf('http://') == -1){
+                            //console.log(tmpurl);
+                           $(this).attr('href', '/'+hukshop_local+''+tmpurl); 
+                          } else if(tmpurl.indexOf('https://brandoris.mx/') !== -1) {
+                            if(tmpurl.indexOf('https://brandoris.mx/'+hukshop_local) == -1) {
+                              tmpurl = tmpurl.split('https://brandoris.mx');
+                              $(this).attr('href', '/'+hukshop_local+''+tmpurl[1]);
+                            }
+                          }
+                        });                        
+                      }
 						$(desktop_selector+ ' [data-huk-translate]').each(function(){
                            console.log('ok translate', desktop_selector);
 							var textval = SCABase64.encode($(this).text());
@@ -380,14 +403,28 @@ if ( !jQuery.isFunction(jQuery.fn.lazyload) ) {
 						});
 						if($(this).hasClass('huk_menu_item_has_child')) {
 							$(this).children('.huk_menu_submenu').find('.huk_menu_indicator').each(function(e){
-								$(this).parent().parent().hover(function($el){
+								//console.log('>>>>>'+$(this).parent().parent().parent().attr('class'), $(this).parent().parent().parent().height());
+                                
+                                /*$(this).parent().parent().parent().on('scroll', function(){
+                                  console.log('>>>>>'+$(this).attr('class'), $(this).height());
+                                });*/
+                                                             
+                                $(this).parent().parent().hover(function($el){
 									let $_parent = $(this);
+                                    $_parent.parent().removeClass('huk_menu_submenu_has_scrollbar').removeClass('huk_menu_submenu_has_scrollbar1');
 									$_parent.parent().find('.huk_menu_item').removeClass('huk_menu_item_active');
 									$_parent.addClass('huk_menu_item_active');
+                                  //console.log('>>>>', $(this).children('.huk_menu_submenu').height());
+                                  if($(this).children('.huk_menu_submenu').height() > 600) {
+                                    $(this).children('.huk_menu_submenu').addClass('huk_menu_submenu_has_scrollbar').addClass('huk_menu_submenu_has_scrollbar1');
+                                  }
 								}, function($el1){
 									let $_parent = $(this);
 									//$_parent.parent().children('.huk_menu_item').removeClass('huk_menu_item_active');
 									$_parent.removeClass('huk_menu_item_active');
+                                    /*if($_parent.parent().height() > 400) {
+                                      $_parent.parent().addClass('huk_menu_submenu_has_scrollbar').addClass('huk_menu_submenu_has_scrollbar1');
+                                    }*/                                  
 								});
 								/*$(this).parent().parent().off('click').on('click', function(el){
 									let $parent = $(this).parent();

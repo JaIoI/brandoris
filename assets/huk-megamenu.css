@@ -34,6 +34,10 @@ details>* {
     line-height: 50px;
     box-sizing: border-box;	
 }
+.huk_menu_item, .huk_menu_item *, .huk_menu_item :after, .huk_menu_item :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
 .block_titletap button:not(:last-of-type):after {
     content: "";
     top: 50%;
@@ -204,6 +208,7 @@ summary.huk_menu-drawer__menu-item {
 .huk_menu_app_desktop {
     overflow: visible!important;
 	position: static;
+  white-space:normal;
 }
 .huk_menu_app_desktop a{
 	color: #333;
@@ -615,6 +620,9 @@ summary.huk_menu-drawer__menu-item {
   -ms-flex-negative: 0;
   flex-shrink: 0;
   display: block !important;
+}
+.huk_menu_submenu_has_scrollbar1{
+  max-height:400px;
 }
 .huk_menu_image--bellow .huk_menu_item_text {
   -webkit-box-ordinal-group: 0;
@@ -1048,7 +1056,7 @@ huk_menu_submenu_tab_item.huk_menu_submenu_tab_active {
 .huk_menu_submenu_mega_position_fullwidth {
     width: 100%!important;
 }
-.huk_menu_item--root>.huk_menu_submenu {
+/*.huk_menu_item--root>.huk_menu_submenu {
     height: auto!important;
     top: auto!important;
     position: absolute;
@@ -1058,7 +1066,7 @@ huk_menu_submenu_tab_item.huk_menu_submenu_tab_active {
     background: #fff;
     -webkit-box-shadow: inset 0 0 0 1px #eaeaea,0 5px 20px rgba(0,0,0,.15)!important;
     box-shadow: inset 0 0 0 1px #eaeaea,0 5px 20px rgba(0,0,0,.15)!important;
-}
+}*/
 /*.huk_menu_item_active>.huk_menu_submenu {
     z-index: 1000;
     opacity: 1;
@@ -1067,8 +1075,8 @@ huk_menu_submenu_tab_item.huk_menu_submenu_tab_active {
 .huk_menu_item_submenu_type_flyout .huk_menu_submenu {
     position: absolute;
     background: #fff;
-    -webkit-box-shadow: inset 0 0 0 1px #eaeaea,0 5px 20px rgba(0,0,0,.15)!important;
-    box-shadow: inset 0 0 0 1px #eaeaea,0 5px 20px rgba(0,0,0,.15)!important;
+    /*-webkit-box-shadow: inset 0 0 0 1px #eaeaea,0 5px 20px rgba(0,0,0,.15)!important;
+    box-shadow: inset 0 0 0 1px #eaeaea,0 5px 20px rgba(0,0,0,.15)!important;*/
     top: 100%;
     left: 0;
     min-width: 220px;
@@ -1327,7 +1335,7 @@ huk_menu_submenu_tab_item.huk_menu_submenu_tab_active {
     border-color: rgba(0,0,0,.05);
     border-width: 0 0 1px 0!important;
     border-style: solid;
-    white-space: nowrap!important;
+    white-space: normal!important;
 }
 .huk_menu_submenu_type_mega .huk_menu_item_display_header>.huk_menu_item_link {
     font-weight: 600!important;

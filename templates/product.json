@@ -26,6 +26,27 @@
           "settings": {
           }
         },
+        "advantage_HtizfK": {
+          "type": "advantage",
+          "settings": {
+            "delivery_country_flag": false,
+            "image": "shopify:\/\/shop_images\/2e.png",
+            "color_scheme": "black",
+            "heading": "Price information",
+            "text": "",
+            "toggle_type": "popup",
+            "popup_heading": "",
+            "popup_text": "Price includes agency remuneration, transportation logistics costs, customs duties",
+            "page": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "description": "Price includes agency remuneration, transportation logistics costs, customs duties"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -38,13 +59,6 @@
             "show_dynamic_checkout": false,
             "show_quantity": true,
             "show_gift_card_recipient": false
-          }
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "description": "Description, name, etc are formed for informational purposes based on data from an official online store abroad or manufacturer's website."
           }
         },
         "inventory_ka4ECw": {
@@ -69,8 +83,8 @@
           "type": "advantage",
           "settings": {
             "delivery_country_flag": true,
-            "image": "shopify://shop_images/rr.epng_edd363f8-e7c4-443a-a698-5918d126f621.png",
-            "image_dark": "shopify://shop_images/rr.epdeng.png",
+            "image": "shopify:\/\/shop_images\/rr.epng_edd363f8-e7c4-443a-a698-5918d126f621.png",
+            "image_dark": "shopify:\/\/shop_images\/rr.epdeng.png",
             "color_scheme": "black",
             "heading": "Delivery from 14 working days is included in the price",
             "text": "",
@@ -84,6 +98,7 @@
           "type": "parameters",
           "settings": {
             "heading": "Parameters",
+            "image": "shopify:\/\/shop_images\/4e.png",
             "color_scheme": "black"
           }
         },
@@ -133,11 +148,11 @@
           "type": "promo_banner",
           "settings": {
             "background_color": "#ffffff",
-            "logo": "shopify://shop_images/5w.png",
+            "logo": "shopify:\/\/shop_images\/5w.png",
             "text": "ORIGINAL PRODUCTS",
             "text_color": "#4b9a60",
             "link_text": "To All Brands",
-            "link_url": "shopify://pages/marcas",
+            "link_url": "shopify:\/\/pages\/marcas",
             "link_color": "#55137c"
           }
         },
@@ -238,9 +253,10 @@
         "rating",
         "title",
         "price",
+        "advantage_HtizfK",
+        "description",
         "variant_picker",
         "buy_buttons",
-        "description",
         "inventory_ka4ECw",
         "pickup_availability",
         "advantage_1",
