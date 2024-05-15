@@ -28,7 +28,6 @@
 .brands-list-container .divider {
   grid-column-start: 1;
 }
-
 @media screen and (min-width: 990px) {
   .brands-list-container {
     grid-template-columns: repeat(2, 1fr);
@@ -37,7 +36,6 @@
     grid-column-end: 3;
   }
 }
-
 @media screen and (min-width: 1200px) {
   .brands-list-container {
     grid-template-columns: repeat(3, 1fr);
@@ -62,6 +60,15 @@
   }
   .huk_menu_item .huk_menu_collection > img + .huk_menu_item_text {
     margin-top: 0;
+  }
+}
+@media screen and (max-width: 989px) {
+  .header__localization {
+    display: block !important;
+    padding-inline: 0 !important;
+  }
+  .menu-drawer .header__localization {
+    display: none !important;
   }
 }
 @media screen and (max-width: 750px) {
