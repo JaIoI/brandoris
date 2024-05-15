@@ -654,6 +654,19 @@
                         {{- 'newsletter.success' | t }}
                       </h3>
                     {%- endif -%}
+                    <div class="newsletter-form__notice">
+                      {%- if request.locale.iso_code == 'en' -%}
+                        *By subscribing, you confirm you have read and accept our
+                      {% endif %}
+                      {%- if request.locale.iso_code == 'es' -%}
+                        *Al suscribirse, confirma que ha leído y acepta nuestra
+                      {% endif %}
+                      {%- for policy in shop.policies -%}
+                        {%- if policy != blank and forloop.index == 2 -%}
+                          <a href="{{ policy.url }}">{{ policy.title }}</a>
+                        {%- endif -%}
+                      {%- endfor -%}
+                    </div>
                   {% endform %}
                 </div>
               {% endif %}
