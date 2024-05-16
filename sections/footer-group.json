@@ -22,14 +22,14 @@
         "footer-3": {
           "type": "link_list",
           "settings": {
-            "heading": "SHOP",
+            "heading": "TIENDA",
             "menu": "footer"
           }
         },
         "link_list_tFtmPM": {
           "type": "link_list",
           "settings": {
-            "heading": "POPULAR",
+            "heading": "POPULARES",
             "menu": "popular"
           }
         },
@@ -37,7 +37,7 @@
           "type": "contacts",
           "settings": {
             "description": "2093 Philadelphia Pike, 1528, Claymont, Delaware 19703, US",
-            "contact_info": "<p><a href=\"\/pages\/contact\" title=\"\/pages\/contact\">Contact Us<\/a><\/p>"
+            "contact_info": "<p><a href=\"\/pages\/contacto\" title=\"Contacto\">Contacte con nosotros<\/a><\/p>"
           }
         }
       },
@@ -62,7 +62,7 @@
         "show_social": false,
         "show_policy": true,
         "enable_subscribe": true,
-        "heading": "RECEIVE OUR NEWSLETTER",
+        "heading": "RECIBA NUESTRO BOLETÍN",
         "button_style": "secondary"
       }
     }

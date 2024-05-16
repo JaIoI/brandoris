@@ -3,6 +3,11 @@
     "main": {
       "type": "main-register",
       "settings": {
+        "subtitle": "Al inicio de sesión, confirma que ha leído y acepta nuestra política de privacidad",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "xl"
       }
     }
   },

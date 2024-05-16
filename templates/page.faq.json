@@ -20,7 +20,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Description for your section.</p>"
+            "text": "<p>Description for your section.<\/p>"
           }
         },
         "button_wEazNm": {
@@ -53,80 +53,80 @@
         "accordion_RmaA3d": {
           "type": "accordion",
           "settings": {
-            "question": "Who can place an order through Brandoris?",
-            "answer": "<p>Anyone with a valid passport can place an order</p>",
+            "question": "¿Quién puede hacer un pedido a través de Brandoris?",
+            "answer": "<p>Cualquier persona con un pasaporte válido puede hacer un pedido<\/p>",
             "opened": true
           }
         },
         "accordion_gA4bJR": {
           "type": "accordion",
           "settings": {
-            "question": "How long should I wait?",
-            "answer": "<p>Delivery of the order is carried out within 14 days. Due to the nature of international transportation, delivery time may be extended.</p>",
+            "question": "¿Cuánto tiempo debo esperar?",
+            "answer": "<p>La entrega del pedido se realiza en un plazo de 14 días. Debido a la naturaleza del transporte internacional, el plazo de entrega puede prolongarse<\/p>",
             "opened": false
           }
         },
         "accordion_3Qkxyi": {
           "type": "accordion",
           "settings": {
-            "question": "Can I pay for the goods upon receipt?",
-            "answer": "<p>We are not an online store and act as an agent between the client and the seller, purchasing goods individually for each client. In this regard, 100% prepayment is required.</p>",
+            "question": "¿Puedo pagar la mercancía en el momento de recibirla?",
+            "answer": "<p>No somos una tienda en línea y actuamos como agente entre el cliente y el vendedor, comprando mercancías individualmente para cada cliente. En este sentido, se requiere un prepago del 100%<\/p>",
             "opened": false
           }
         },
         "accordion_4MXY3E": {
           "type": "accordion",
           "settings": {
-            "question": "What’s included in the final price?",
-            "answer": "<p>Product price, product search, additional packaging of fragile goods, customs clearance and door-to-door delivery are all included in the price we offer you. No additional charges</p>",
+            "question": "¿Qué incluye el precio final?",
+            "answer": "<p>El precio que le ofrecemos incluye el precio del producto, la búsqueda del producto, el embalaje adicional de mercancías frágiles, el despacho de aduanas y la entrega puerta a puerta. Sin gastos adicionales<\/p>",
             "opened": false
           }
         },
         "accordion_cCLtmY": {
           "type": "accordion",
           "settings": {
-            "question": "How to ensure product authenticity?",
-            "answer": "<p>We only purchase from official online stores, guaranteeing authenticity. When you submit a request to purchase a specific item from a particular store, we always ensure the source is reliable. If we cannot guarantee the store's reliability, we will suggest an alternative purchase source that has proven itself as a platform with original products</p>",
+            "question": "¿Cómo garantizar la autenticidad del producto?",
+            "answer": "<p>Sólo compramos en tiendas online oficiales, lo que garantiza su autenticidad. Cuando envías una solicitud de compra de un artículo específico a una tienda concreta, siempre nos aseguramos de que la fuente sea fiable. Si no podemos garantizar la fiabilidad de la tienda, le sugeriremos una fuente de compra alternativa que haya demostrado ser una plataforma con productos originales<\/p>",
             "opened": false
           }
         },
         "accordion_CJQqaG": {
           "type": "accordion",
           "settings": {
-            "question": "How to pay for the order?",
-            "answer": "<p>Payment can be made with any bank card from your country</p>",
+            "question": "¿Cómo pagar el pedido?",
+            "answer": "<p>Puede pagar con cualquier tarjeta bancaria de su país<\/p>",
             "opened": false
           }
         },
         "accordion_eVErQm": {
           "type": "accordion",
           "settings": {
-            "question": "Can I track the shipment?",
-            "answer": "<p>Yes, a tracking number will be sent to you once the item is dispatched</p>",
+            "question": "¿Puedo seguir el envío?",
+            "answer": "<p>Sí, se le enviará un número de seguimiento una vez que se envíe el artículo<\/p>",
             "opened": false
           }
         },
         "accordion_7BgjVx": {
           "type": "accordion",
           "settings": {
-            "question": "What if the product doesn't suit me?",
-            "answer": "<p>If the product is different from your order or defective, reject it and reach out to us for a solution. Keep in mind, returns for products that aren't defective but don't meet your expectations aren't possible through our service</p>",
+            "question": "¿Y si el producto no me conviene?",
+            "answer": "<p>Si el producto es diferente al de su pedido o está defectuoso, rechácelo y póngase en contacto con nosotros para buscar una solución. Ten en cuenta que nuestro servicio no admite devoluciones de productos que no sean defectuosos pero que no cumplan tus expectativas<\/p>",
             "opened": false
           }
         },
         "accordion_PNjWLi": {
           "type": "accordion",
           "settings": {
-            "question": "Can I cancel an order?",
-            "answer": "<p>You can cancel an order before the product is purchased, and we will refund your money, deducting the cash-payment services fee. Once the product is purchased, cancellation is not possible</p>",
+            "question": "¿Puedo anular un pedido?",
+            "answer": "<p>Puede anular un pedido antes de que se compre el producto, y le devolveremos el dinero, deduciendo la comisión por servicios de pago en efectivo. Una vez comprado el producto, no es posible anularlo<\/p>",
             "opened": false
           }
         },
         "accordion_QVFJB6": {
           "type": "accordion",
           "settings": {
-            "question": "Is the manufacturer's warranty applicable?",
-            "answer": "<p>Yes, for warranty claims, contact the manufacturer directly</p>",
+            "question": "¿Se aplica la garantía del fabricante?",
+            "answer": "<p>Sí, para las reclamaciones de garantía, póngase en contacto directamente con el fabricante<\/p>",
             "opened": false
           }
         },
@@ -154,7 +154,7 @@
         "accordion_8r6pct"
       ],
       "settings": {
-        "heading": "FAQ",
+        "heading": "PREGUNTAS FRECUENTES",
         "heading_size": "h1",
         "text": "",
         "margin_top": "no-indent",
@@ -177,14 +177,14 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "<p>Heading for your section</p>",
+            "heading": "<p>Heading for your section<\/p>",
             "heading_size": "medium"
           }
         },
         "text_EGDaWp": {
           "type": "text",
           "settings": {
-            "text": "<p>For further inquiries, <a href=\"/pages/contact\" title=\"Contact\">contact us here</a> or mail us <a href=\"mailto:buyout@brandoris.mx\" title=\"mailto:buyout@brandoris.mx\">buyout@brandoris.mx </a>  </p>"
+            "text": "<p>Para más información, póngase en <a href=\"\/pages\/contacto\" title=\"Contacto\">contacto<\/a> con nosotros aquí o envíenos un correo electrónico <a href=\"mailto:buyout@brandoris.mx\" title=\"mailto:buyout@brandoris.mx\">buyout@brandoris.mx <\/a>  <\/p>"
           }
         },
         "button_rAzxYb": {

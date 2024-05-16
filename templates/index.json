@@ -27,14 +27,14 @@
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#55137c",
-            "heading": "LET'S GO SHOPPING",
+            "heading": "VAMOS DE COMPRAS",
             "heading_size": "h1",
             "heading_width": 60,
-            "text": "CHECK OUT THE MOST POPULAR PRODUCTS",
+            "text": "CONSULTE LOS PRODUCTOS MÁS POPULARES",
             "text_size": "medium",
             "text_width": 100,
             "show_button": true,
-            "button_label": "GO TO BRANDS",
+            "button_label": "IR A MARCAS",
             "button_link": "shopify:\/\/pages\/marcas",
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
@@ -224,7 +224,7 @@
       "settings": {
         "color_scheme": "background-1",
         "subheading": "",
-        "heading": "Trending Deals",
+        "heading": "Tendencias",
         "heading_size": "h2",
         "show_info": false,
         "info_subheading": "Subheading",
@@ -236,12 +236,12 @@
         "button_label": "Explore Our Store",
         "button_link": "shopify:\/\/collections",
         "product_list": [
-          "acetyl-l-carnitine-jarrow-formulas-500-mg-120-capsules",
-          "action-camera-dji-osmo-action-3-adventure-combo",
-          "action-camera-insta360-x3-standalone-black",
-          "action-camera-sjcam-sj4000-air-black",
-          "adidas-advantage-base-sneakers-white",
-          "action-camera-dji-osmo-action-3-biking-combo"
+          "21st-century-melatonina-de-liberacion-prolongada-10-mg-120-comprimidos",
+          "auriculares-inalambricos-sony-inzone-h9-negro-blanco",
+          "consola-de-juegos-sony-playstation-5-console-standard-edition-gamepad-pulse-3d-wireless-825-gb-blanco",
+          "google-pixel-watch-lte-wi-fi-plateado-carbon",
+          "camara-web-logitech-hd-webcam-c310-negra",
+          "monitor-lg-ultragear-27gn800-b-27-negro"
         ],
         "columns_mobile": "2",
         "image_ratio": "landscape",
@@ -303,11 +303,11 @@
             "enable_mobile_overlay": false,
             "text_align": "left",
             "text_color_scheme": "light",
-            "subheading": "Game consoles",
+            "subheading": "Consolas de videojuegos",
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#40b66f",
-            "heading": "Play Like a Pro",
+            "heading": "Juega como un profesional",
             "heading_size": "h3",
             "heading_width": 50,
             "text": "",
@@ -319,7 +319,7 @@
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": "shopify:\/\/collections\/game-consoles-and-products-for-gamers"
+            "card_link": "https:\/\/brandoris.mx\/collections\/consolas-de-juegos-y-productos-para-jugadores"
           }
         },
         "block_2": {
@@ -342,12 +342,12 @@
             "enable_mobile_overlay": true,
             "text_align": "bottom-left",
             "text_color_scheme": "light",
-            "subheading": "Electronics",
+            "subheading": "Electrónica",
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#40b66f",
-            "heading": "Best Prices",
-            "heading_size": "h1",
+            "heading": "Los mejores precios",
+            "heading_size": "h2",
             "heading_width": 100,
             "text": "",
             "text_size": "small",
@@ -358,7 +358,7 @@
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": "shopify:\/\/collections\/electronics"
+            "card_link": "shopify:\/\/collections\/electronica"
           }
         },
         "block_4": {
@@ -381,11 +381,11 @@
             "enable_mobile_overlay": true,
             "text_align": "bottom-left",
             "text_color_scheme": "light",
-            "subheading": "SMART WATCH",
+            "subheading": "RELOJ SMART",
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#40b66f",
-            "heading": "Style and Functionality",
+            "heading": "Estilo y funcionalidad",
             "heading_size": "h2",
             "heading_width": 100,
             "text": "",
@@ -397,7 +397,7 @@
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": "shopify:\/\/collections\/smart-watches-and-bracelets"
+            "card_link": "shopify:\/\/collections\/reloj-inteligente"
           }
         },
         "column_3JLP9k": {
@@ -420,11 +420,11 @@
             "enable_mobile_overlay": false,
             "text_align": "top-left",
             "text_color_scheme": "light",
-            "subheading": "shoes",
+            "subheading": "zapatos",
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#55137c",
-            "heading": "Trendy & Stylish",
+            "heading": "De moda y con estilo",
             "heading_size": "h3",
             "heading_width": 50,
             "text": "",
@@ -436,7 +436,7 @@
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": "shopify:\/\/collections\/shoes"
+            "card_link": "shopify:\/\/collections\/zapatos"
           }
         },
         "column_Qw8R6f": {
@@ -459,11 +459,11 @@
             "enable_mobile_overlay": false,
             "text_align": "bottom-left",
             "text_color_scheme": "light",
-            "subheading": "Construction and repair",
+            "subheading": "Construcción y reparación",
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#40b66f",
-            "heading": "Let's Changes Begin",
+            "heading": "Que empiecen los cambios",
             "heading_size": "h3",
             "heading_width": 50,
             "text": "",
@@ -471,11 +471,11 @@
             "text_width": 100,
             "show_button": false,
             "button_label": "Explore Our Store",
-            "button_link": "shopify:\/\/collections\/construction-and-repair",
+            "button_link": "",
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": "shopify:\/\/collections\/construction-and-repair"
+            "card_link": ""
           }
         },
         "column_kHa4Vb": {
@@ -498,11 +498,11 @@
             "enable_mobile_overlay": false,
             "text_align": "top-left",
             "text_color_scheme": "light",
-            "subheading": "MOTOTECHNICS",
+            "subheading": "MOTOTECNIA",
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#40b66f",
-            "heading": "Adrenaline and Freedom",
+            "heading": "Adrenalina y libertad",
             "heading_size": "h2",
             "heading_width": 50,
             "text": "",
@@ -514,7 +514,7 @@
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": "shopify:\/\/collections\/moto-equipment"
+            "card_link": ""
           }
         }
       },
@@ -543,25 +543,25 @@
         "heading": "",
         "heading_size": "h2",
         "show_info": true,
-        "info_subheading": "best price",
-        "info_heading": "Iphone and MacBook",
+        "info_subheading": "mejor precio",
+        "info_heading": "APPLE",
         "info_heading_size": "h2",
-        "text": "Early Access to New Releases",
+        "text": "Acceso anticipado a nuevos lanzamientos",
         "show_button": true,
         "button_style": "primary",
         "button_label": "Go to Collection",
         "button_link": "shopify:\/\/collections\/apple-1",
         "product_list": [
-          "all-in-one-apple-imac-24-2021-mgpd3b-a-8gb-512gb-silver",
-          "apple-airpods-max-over-ear-headphones-space-gray",
-          "apple-airpods-pro-2-wireless-headphones-white",
-          "apple-mac-mini-m2-pro-desktop-2023-10gb-ethernet-16gb-1tb-silver",
-          "smart-speaker-apple-homepod-mini-orange",
-          "apple-iphone-14-pro-case-with-magsafe-transparent",
-          "apple-watch-series-8-gps-45-mm-silver-white",
-          "apple-magic-keyboard-white",
-          "apple-smart-keyboard-folio-for-ipad-pro-11-black",
-          "laptop-apple-macbook-air-13-3-2020-mgn63b-a-m1-8gb-256gb-space-gray"
+          "altavoz-inteligente-apple-homepod-2-a-generacion-medianoche",
+          "apple-imac-todo-en-uno-24-2021-mgpm3ll-a-8gb-256gb-rosa",
+          "apple-ipad-2021-256-gb-wi-fi-plata",
+          "apple-magic-mouse-inalambrico-blanco",
+          "apple-smart-keyboard-folio-para-ipad-pro-de-11-2-a-generacion-negro",
+          "apple-watch-series-8-gps-cellular-45-mm-caja-de-aluminio-medianoche-correa-deportiva-product-red-s-m",
+          "auriculares-inalambricos-apple-airpods-pro-2-blancos",
+          "auriculares-supraaurales-apple-airpods-max-azul-cielo",
+          "computadora-de-escritorio-apple-mac-mini-m2-pro-2023-16gb-2tb-plata",
+          "decodificador-de-tv-apple-tv-4k-wi-fi-ethernet-3-a-generacion-128-gb-negro"
         ],
         "columns_mobile": "2",
         "image_ratio": "landscape",
@@ -582,69 +582,69 @@
         "product_slide_AmcN7B": {
           "type": "product_slide",
           "settings": {
-            "thumbs_heading": "Electronics",
+            "thumbs_heading": "Electrónica",
             "image": "shopify:\/\/shop_images\/26516.jpg",
-            "subheading": "Virtual reality glasses",
+            "subheading": "Gafas de realidad virtual",
             "color_text": "#262626",
             "show_subheading_dot": true,
             "color_dot": "#5e0d8f",
-            "heading": "DISCOVER A NEW WORLD",
-            "text": "Feel the magic of virtual reality",
+            "heading": "DESCUBRE UN MUNDO NUEVO",
+            "text": "Siente la magia de la realidad virtual",
             "show_button": true,
             "button_style": "primary",
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/virtual-reality-glasses"
+            "button_label": "Comprar ahora",
+            "button_link": "shopify:\/\/collections\/gafas-de-realidad-virtual"
           }
         },
         "product_slide_HWBdVp": {
           "type": "product_slide",
           "settings": {
-            "thumbs_heading": "Shoes",
+            "thumbs_heading": "Zapatos",
             "image": "shopify:\/\/shop_images\/a577de18a02c2882861b6e3667e7f0a2_397adcf9-e053-496a-b913-ec91ac8a2455.png",
-            "subheading": "Women's shoes",
+            "subheading": "Zapatos de mujer",
             "color_text": "#262626",
             "show_subheading_dot": true,
             "color_dot": "#5e0d8f",
-            "heading": "STEP INTO STYLE",
-            "text": "Discover the latest shoe trends",
+            "heading": "PONTE A LA MODA",
+            "text": "Descubra las últimas tendencias en calzado",
             "show_button": true,
             "button_style": "primary",
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/womens-shoes"
+            "button_label": "Comprar ahora",
+            "button_link": "shopify:\/\/collections\/zapatos-de-mujer"
           }
         },
         "product_slide_34knhE": {
           "type": "product_slide",
           "settings": {
-            "thumbs_heading": "Clothing",
+            "thumbs_heading": "Ropa",
             "image": "shopify:\/\/shop_images\/clothes-concept-women-wear-hanging-dried-tree-branch-shadow-shading-white-wall.jpg",
-            "subheading": "Clothing",
+            "subheading": "",
             "color_text": "#262626",
             "show_subheading_dot": true,
             "color_dot": "#5e0d8f",
-            "heading": "SHOP THE LATEST FASHION TRENDS",
-            "text": "Your style, your freedom",
+            "heading": "LAS ÚLTIMAS TENDENCIAS DE LA MODA",
+            "text": "Tu estilo, tu libertad",
             "show_button": true,
             "button_style": "primary",
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/clothing"
+            "button_label": "Comprar ahora",
+            "button_link": "shopify:\/\/collections\/pano"
           }
         },
         "product_slide_ckdnMP": {
           "type": "product_slide",
           "settings": {
-            "thumbs_heading": "Children's goods",
+            "thumbs_heading": "Artículos infantiles",
             "image": "shopify:\/\/shop_images\/knitted-toy-bunny-yellow-stars-wooden-teether-newborn-white-bed-baby-stuff-accessories.jpg",
-            "subheading": "Toys",
+            "subheading": "Juguetes",
             "color_text": "#262626",
             "show_subheading_dot": true,
             "color_dot": "#5e0d8f",
-            "heading": "A LIFE FULL OF GAMES",
-            "text": "Even an adult can't resist",
+            "heading": "UNA VIDA LLENA DE JUEGOS",
+            "text": "Incluso un adulto no puede resistirse",
             "show_button": true,
             "button_style": "primary",
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/toys"
+            "button_label": "Comprar ahora",
+            "button_link": "shopify:\/\/collections\/juguetes"
           }
         }
       },
@@ -674,8 +674,8 @@
       "settings": {
         "heading": "Bestsellers",
         "collection_list": [
-          "smartphones",
-          "sneakers"
+          "telefonos-inteligentes",
+          "muebles"
         ],
         "products_limit": 9,
         "products_to_show": 3,
@@ -692,50 +692,50 @@
     "categories-list": {
       "type": "categories-list",
       "blocks": {
-        "collection_1": {
+        "collection_6": {
           "type": "collection_item",
           "settings": {
-            "collection": "smartphones"
+            "collection": "accesorios-electronicos"
           }
         },
         "collection_2": {
           "type": "collection_item",
           "settings": {
-            "collection": "shoes"
+            "collection": "backbone"
           }
         },
         "collection_3": {
           "type": "collection_item",
           "settings": {
-            "collection": "toys"
+            "collection": "constituir"
           }
         },
         "collection_4": {
           "type": "collection_item",
           "settings": {
-            "collection": "monitors"
+            "collection": "monitores"
+          }
+        },
+        "collection_1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "telefonos-inteligentes"
           }
         },
         "collection_5": {
           "type": "collection_item",
           "settings": {
-            "collection": "body-care"
-          }
-        },
-        "collection_6": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "womens-accessories"
+            "collection": "muebles-de-dormitorio"
           }
         }
       },
       "block_order": [
-        "collection_1",
+        "collection_6",
         "collection_2",
         "collection_3",
         "collection_4",
-        "collection_5",
-        "collection_6"
+        "collection_1",
+        "collection_5"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -753,24 +753,24 @@
         "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-0": {
           "type": "accordion",
           "settings": {
-            "question": "Who can place an order through Brandoris?",
-            "answer": "<p>Anyone with a valid passport can place an order<\/p>",
+            "question": "¿Quién puede hacer un pedido a través de Brandoris?",
+            "answer": "<p>Cualquier persona con un pasaporte válido puede hacer un pedido<\/p>",
             "opened": true
           }
         },
         "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-1": {
           "type": "accordion",
           "settings": {
-            "question": "How long should I wait?",
-            "answer": "<p>Delivery of the order is carried out within 14 days. Due to the nature of international transportation, delivery time may be extended.<\/p>",
+            "question": "¿Cuánto tiempo debo esperar?",
+            "answer": "<p>La entrega del pedido se realiza en un plazo de 14 días. Debido a la naturaleza del transporte internacional, el plazo de entrega puede prolongarse<\/p>",
             "opened": false
           }
         },
         "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-2": {
           "type": "accordion",
           "settings": {
-            "question": "Can I pay for the goods upon receipt?",
-            "answer": "<p>We are not an online store and act as an agent between the client and the seller, purchasing goods individually for each client. In this regard, 100% prepayment is required.<\/p>",
+            "question": "¿Puedo pagar la mercancía en el momento de recibirla?",
+            "answer": "<p>No somos una tienda en línea y actuamos como agente entre el cliente y el vendedor, comprando mercancías individualmente para cada cliente. En este sentido, se requiere un prepago del 100%<\/p>",
             "opened": false
           }
         }
@@ -781,7 +781,7 @@
         "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-2"
       ],
       "settings": {
-        "heading": "FAQ",
+        "heading": "PREGUNTAS FRECUENTES",
         "heading_size": "h1",
         "text": "",
         "margin_top": "no-indent",
@@ -818,7 +818,7 @@
         "button_kRLd7J": {
           "type": "button",
           "settings": {
-            "button_label": "More",
+            "button_label": "Más información",
             "button_link": "shopify:\/\/pages\/preguntas-mas-frecuentes",
             "button_style": "primary"
           }

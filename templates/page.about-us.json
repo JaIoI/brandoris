@@ -12,14 +12,14 @@
         "heading_UGVin3": {
           "type": "heading",
           "settings": {
-            "heading": "<p>BRANDORIS</p>",
+            "heading": "<p>BRANDORIS<\/p>",
             "heading_size": "medium"
           }
         },
         "text_Kci9zA": {
           "type": "text",
           "settings": {
-            "text": "<p>We provide a comprehensive range of services for ordering products from popular brands abroad.</p><p>The service was launched by the international logistics operator.</p>"
+            "text": "<p>Ofrecemos una amplia gama de servicios para encargar productos de marcas populares en el extranjero. El servicio fue puesto en marcha por el operador logístico internacional<\/p>"
           }
         },
         "button_ea6Hiq": {
@@ -58,7 +58,7 @@
             "row_end": "5",
             "min_height": "medium",
             "padding": "small",
-            "image": "shopify://shop_images/6540_f786718c-3443-4fd2-a600-d228799d1824.jpg",
+            "image": "shopify:\/\/shop_images\/6540_f786718c-3443-4fd2-a600-d228799d1824.jpg",
             "image_size": "cover",
             "icon_size": "cover",
             "icon_position": "left-top",
@@ -107,25 +107,25 @@
         "column_tXT99J": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/1e.png",
+            "image": "shopify:\/\/shop_images\/1e.png",
             "heading": "",
-            "text": "1. Acting as an intermediary between the client and foreign sellers as an agent, representing the client's interests"
+            "text": "1. Actuar como intermediario entre el cliente y los vendedores extranjeros en calidad de agente, representando los intereses del cliente"
           }
         },
         "column_xyXpc9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/4e.png",
+            "image": "shopify:\/\/shop_images\/4e.png",
             "heading": "",
-            "text": "2. Providing access to a unified storefront for searching, selecting, ordering, and paying for foreign goods"
+            "text": "2. Proporcionar acceso a un escaparate unificado para buscar, seleccionar, pedir y pagar productos extranjeros"
           }
         },
         "column_EieRjL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/2e.png",
+            "image": "shopify:\/\/shop_images\/2e.png",
             "heading": "",
-            "text": "3. Fulfilling client orders for searching, purchasing, and delivering goods from overseas"
+            "text": "3. Cumplimiento de los pedidos de los clientes para la búsqueda, compra y entrega de mercancías procedentes del extranjero"
           }
         }
       },
@@ -161,7 +161,7 @@
         "heading_FWN4CY": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Key advantages:</p>",
+            "heading": "<p>Ventajas clave:<\/p>",
             "heading_size": "medium"
           }
         }
@@ -185,24 +185,24 @@
         "column_raqgEx": {
           "type": "column",
           "settings": {
-            "image_2": "shopify://shop_images/5e.png",
-            "heading": "Original products from global brands",
+            "image_2": "shopify:\/\/shop_images\/5e.png",
+            "heading": "Productos originales de marcas mundiales",
             "text": ""
           }
         },
         "column_7FrAE6": {
           "type": "column",
           "settings": {
-            "image_2": "shopify://shop_images/7e.png",
-            "heading": "Access to international sales",
+            "image_2": "shopify:\/\/shop_images\/7e.png",
+            "heading": "Acceso a ventas internacionales",
             "text": ""
           }
         },
         "column_rbaB8U": {
           "type": "column",
           "settings": {
-            "image_2": "shopify://shop_images/6e.png",
-            "heading": "Early access to new releases",
+            "image_2": "shopify:\/\/shop_images\/6e.png",
+            "heading": "Acceso anticipado a los nuevos lanzamientos",
             "text": ""
           }
         }
@@ -233,14 +233,14 @@
         "heading_PA3dHU": {
           "type": "heading",
           "settings": {
-            "heading": "<p>How does it work?</p>",
+            "heading": "<p>¿Cómo funciona?<\/p>",
             "heading_size": "medium"
           }
         },
         "text_QyVKYm": {
           "type": "text",
           "settings": {
-            "text": "<p>We provide services on an \"all-inclusive\" basis:</p>"
+            "text": "<p>Prestamos servicios «todo incluido»:<\/p>"
           }
         }
       },
@@ -272,7 +272,7 @@
         "button_label": "",
         "button_style": "primary",
         "button_link": "",
-        "image": "shopify://shop_images/4447873.jpg",
+        "image": "shopify:\/\/shop_images\/4447873.jpg",
         "image_ratio": "adapt",
         "opacity_overlay": 0,
         "margin_top": "no-indent",
@@ -292,7 +292,7 @@
             "row_end": "3",
             "min_height": "large",
             "padding": "large",
-            "image": "shopify://shop_images/6540.jpg",
+            "image": "shopify:\/\/shop_images\/6540.jpg",
             "image_size": "cover",
             "icon_size": "cover",
             "icon_position": "left-top",
@@ -342,21 +342,21 @@
           "type": "column",
           "settings": {
             "heading": "",
-            "text": "● The client selects the products of interest in the informational catalog, adds them to the cart, and pays for the order"
+            "text": "● El cliente selecciona los productos de su interés en el catálogo informativo, los añade al carrito y paga el pedido"
           }
         },
         "column_CaAGwa": {
           "type": "column",
           "settings": {
             "heading": "",
-            "text": "● They commission us to organize the search, purchase, and delivery of the products according to the preliminary description from the product card."
+            "text": "● Nos encargan que organicemos la búsqueda, compra y entrega de los productos de acuerdo con la descripción preliminar de la ficha de producto"
           }
         },
         "column_7JgtNH": {
           "type": "column",
           "settings": {
             "heading": "",
-            "text": "● Then we proceed with fulfilling the order - finding a retail seller abroad, organizing the purchase of the product, and its delivery to the client."
+            "text": "● A continuación, procedemos a tramitar el pedido: buscamos un vendedor minorista en el extranjero, organizamos la compra del producto y su entrega al cliente"
           }
         }
       },
@@ -386,7 +386,7 @@
         "text_j6grYx": {
           "type": "text",
           "settings": {
-            "text": "<p>Currently, the catalog features offers from more than <strong>26,000 foreign brands</strong>. We deliver products from 15 countries, including the <strong>USA, China, the United Arab Emirates, Turkey, Italy, the UK, Germany, Japan, and Spain</strong>.</p>"
+            "text": "<p>Actualmente, el catálogo cuenta con ofertas de más de 2<strong>6.000 marcas extranjeras<\/strong>. Suministramos productos de 15 países, entre ellos Estados Unidos, China, Emiratos Árabes Unidos, Turquía, Italia, Reino Unido, Alemania, Japón y España<\/p>"
           }
         }
       },
