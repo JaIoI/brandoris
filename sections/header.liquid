@@ -137,7 +137,7 @@ onScroll() {
 const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 
 if (this.headerIsAlwaysSticky && scrollTop > this.header.offsetHeight + 1) {
-	this.header.classList.add('shopify-section-header-sticky');
+    this.header.classList.add('shopify-section-header-sticky');
 	this.header.style.transform = 'translateY(-100%)';
 };
 
@@ -181,6 +181,7 @@ this.currentScrollTop = scrollTop;
 
 hide() {
 if (this.headerIsAlwaysSticky) return;
+document.body.style.paddingTop = `${this.header.offsetHeight}px`;
 this.header.classList.add('shopify-section-header-hidden', 'shopify-section-header-sticky');
 this.closeMenuDisclosure();
 }
@@ -193,6 +194,7 @@ this.header.classList.remove('shopify-section-header-hidden');
 
 reset() {
 if (this.headerIsAlwaysSticky) return;
+document.body.style.paddingTop = '0px';
 this.header.classList.remove('shopify-section-header-hidden', 'shopify-section-header-sticky', 'animate');
 }
 
