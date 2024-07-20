@@ -32,11 +32,11 @@
             "delivery_country_flag": false,
             "image": "shopify:\/\/shop_images\/2e.png",
             "color_scheme": "black",
-            "heading": "Price information",
+            "heading": "Información de precios e impuestos",
             "text": "",
             "toggle_type": "popup",
             "popup_heading": "",
-            "popup_text": "Price includes agency remuneration, transportation logistics costs, customs duties",
+            "popup_text": "El precio incluye honorarios de agencia y costes de logística de transporte. Tenga en cuenta que es posible que una empresa de logística se comunique con usted para pagar los derechos de aduana según el tipo y el precio del producto.",
             "page": ""
           }
         },
@@ -86,18 +86,18 @@
             "image": "shopify:\/\/shop_images\/rr.epng_edd363f8-e7c4-443a-a698-5918d126f621.png",
             "image_dark": "shopify:\/\/shop_images\/rr.epdeng.png",
             "color_scheme": "black",
-            "heading": "Delivery from 14 working days is included in the price",
+            "heading": "La entrega a partir de 14 días laborables está incluida en el precio",
             "text": "",
             "toggle_type": "popup",
             "popup_heading": "",
-            "popup_text": "Delivery time may increase depending on the peculiarities of international transportation and delivery region.",
+            "popup_text": "El tiempo de entrega puede aumentar dependiendo de las peculiaridades del transporte internacional y la región de entrega.",
             "page": ""
           }
         },
         "parameters_CgNFHf": {
           "type": "parameters",
           "settings": {
-            "heading": "Parameters",
+            "heading": "Parámetros",
             "image": "shopify:\/\/shop_images\/4e.png",
             "color_scheme": "black"
           }
@@ -149,9 +149,9 @@
           "settings": {
             "background_color": "#ffffff",
             "logo": "shopify:\/\/shop_images\/5w.png",
-            "text": "ORIGINAL PRODUCTS",
+            "text": "PRODUCTOS ORIGINALES",
             "text_color": "#4b9a60",
-            "link_text": "To All Brands",
+            "link_text": "A todas las marcas",
             "link_url": "shopify:\/\/pages\/marcas",
             "link_color": "#55137c"
           }
@@ -179,7 +179,7 @@
         "about_1": {
           "type": "about",
           "settings": {
-            "heading": "Description, name, and trademark are formed for informational purposes based on data from an official online store abroad or manufacturer's website."
+            "heading": "La descripción, el nombre y la marca comercial se forman con fines informativos a partir de datos de una tienda oficial en línea en el extranjero o del sitio web del fabricante."
           }
         },
         "recommendation_Uk9reE": {
@@ -280,7 +280,7 @@
         "desktop_alignment": "left",
         "image_fit": "contain",
         "enable_autoheight": true,
-        "heading_description": "About",
+        "heading_description": "Acerca de",
         "heading_size_description": "h2",
         "padding_top": "xs",
         "padding_bottom": "no-indent"
@@ -310,7 +310,7 @@
       "type": "product-recommendations",
       "settings": {
         "color_scheme": "background-1",
-        "heading": "Product Recommendations",
+        "heading": "Recomendaciones de productos",
         "link": "{{ product.metafields[\"shopify--discovery--product_search_boost\"].queries | metafield_text }}",
         "products_limit": 6,
         "columns_mobile": "2",

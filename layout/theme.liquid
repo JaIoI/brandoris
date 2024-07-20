@@ -1,6 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}" data-scheme="{{ settings.color_scheme }}">
   <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -230,6 +231,19 @@
       }
     </script>
 
+    <script>
+      // if ('{{ customer.id }}') {
+    
+      // } else {
+      //   document.addEventListener('DOMContentLoaded', function(event) {
+      //     const cartCheckoutButton = document.querySelector('.main-page-title')
+      //     // const cartCheckoutButton = document.querySelector('.cart__checkout-button')
+      //     cartCheckoutButton.addEventListener('click', function(evt) {
+      //       console.log('click')
+      //     })
+      //   });
+      // }
+    </script>
     <script src="{{ 'jquery-3.6.0.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'swiper-bundle.min.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'product-card.js' | asset_url }}" defer="defer"></script>
@@ -331,6 +345,7 @@
 							
 
   <body class="template-{{ template.name }} template-{{ template | replace: '.', '-' }}">
+    
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ 'accessibility.skip_to_text' | t }}
     </a>

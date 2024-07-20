@@ -1,0 +1,19 @@
+{
+  "parent": "index.json",
+  "context": {
+    "market": "uae"
+  },
+  "sections": {
+    "cards_grid_9dzNRz": {
+      "settings": {
+      },
+      "blocks": {
+        "column_p6imiT": {
+          "settings": {
+            "heading": "VAMOS DE COMPRAS"
+          }
+        }
+      }
+    }
+  }
+}

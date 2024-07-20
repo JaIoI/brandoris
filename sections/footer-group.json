@@ -36,8 +36,8 @@
         "footer-4": {
           "type": "contacts",
           "settings": {
-            "description": "2093 Philadelphia Pike, 1528, Claymont, Delaware 19703, US",
-            "contact_info": "<p><a href=\"\/pages\/contacto\" title=\"Contacto\">Contacte con nosotros<\/a><\/p>"
+            "description": "2093 Philadelphia Pike, 1528, Claymont, Delaware 19703, US<br>\nTEL. 5127853401 BUYOUT@BRANDORIS.MX",
+            "contact_info": "<p><a href=\"\/pages\/contacto\" title=\"Contacto\">Contacte con nosotros<br\/><\/a><\/p>"
           }
         }
       },

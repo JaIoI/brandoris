@@ -26,7 +26,8 @@
         "snapchat": "Snapchat",
         "youtube": "YouTube",
         "vimeo": "Vimeo",
-        "tiktok": "TikTok"
+        "tiktok": "TikTok",
+        "linkedin": ""
       }
     },
     "continue_shopping": "Seguir comprando",
@@ -53,7 +54,9 @@
       "success_message": "Enlace copiado al portapapeles",
       "links": {
         "twitter": "Gorjeo",
-        "copy": "Copiar link"
+        "copy": "Copiar link",
+        "facebook": "",
+        "pinterest": ""
       }
     },
     "breadcrumbs": {
@@ -324,7 +327,7 @@
       "taxes_and_shipping_policy_at_checkout_html": "Los impuestos y <a href=\"{{ link }}\">gastos de envío<\/a> se calculan en la pantalla de pago",
       "taxes_included_but_shipping_at_checkout": "Impuesto incluido y los gastos de envío se calculan en la pantalla de pago",
       "taxes_included_and_shipping_policy_html": "Impuesto incluido. Los <a href=\"{{ link }}\">gastos de envío<\/a> se calculan en la pantalla de pagos.",
-      "taxes_and_shipping_at_checkout": "Los impuestos y gastos de envío se calculan en la pantalla de pago",
+      "taxes_and_shipping_at_checkout": "",
       "headings": {
         "product": "Producto",
         "price": "Precio",
@@ -555,7 +558,8 @@
     }
   },
   "popular": {
-    "new": "Nuevo"
+    "new": "Nuevo",
+    "url": ""
   },
   "recipient": {
     "form": {

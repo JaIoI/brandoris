@@ -34,8 +34,8 @@
             "text_size": "medium",
             "text_width": 100,
             "show_button": true,
-            "button_label": "IR A MARCAS",
-            "button_link": "shopify:\/\/pages\/marcas",
+            "button_label": "TODOS BUENOS",
+            "button_link": "shopify:\/\/collections\/los-mas-vendidos",
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
@@ -76,11 +76,10 @@
         },
         "block_3": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image_1": "shopify:\/\/shop_images\/air-jordan-gray.webp",
             "image_width": 100,
-            "brand_link": ""
+            "brand_link": "https:\/\/brandoris.mx\/en\/search?q=jordan&options%5Bprefix%5D=last"
           }
         },
         "column_fjdgPJ": {
@@ -136,6 +135,7 @@
         },
         "column_NMznNH": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image_1": "shopify:\/\/shop_images\/massimo-dutti-3.jpg",
             "image_width": 100,
@@ -161,6 +161,7 @@
         },
         "column_xFApwJ": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image_1": "shopify:\/\/shop_images\/apple-3.jpg",
             "image_width": 100,
@@ -173,14 +174,6 @@
           "settings": {
             "image_1": "shopify:\/\/shop_images\/asos-gray.webp",
             "image_width": 100,
-            "brand_link": ""
-          }
-        },
-        "column_EBJ4r3": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image_width": 60,
             "brand_link": ""
           }
         },
@@ -208,7 +201,6 @@
         "column_RKTMeg",
         "column_xFApwJ",
         "column_xbGKh4",
-        "column_EBJ4r3",
         "column_EAPbcU"
       ],
       "settings": {
@@ -236,12 +228,12 @@
         "button_label": "Explore Our Store",
         "button_link": "shopify:\/\/collections",
         "product_list": [
-          "21st-century-melatonina-de-liberacion-prolongada-10-mg-120-comprimidos",
-          "auriculares-inalambricos-sony-inzone-h9-negro-blanco",
-          "consola-de-juegos-sony-playstation-5-console-standard-edition-gamepad-pulse-3d-wireless-825-gb-blanco",
-          "google-pixel-watch-lte-wi-fi-plateado-carbon",
-          "camara-web-logitech-hd-webcam-c310-negra",
-          "monitor-lg-ultragear-27gn800-b-27-negro"
+          "21st-century-c-1000-de-liberacion-sostenida-110-comprimidos",
+          "correa-de-caucho-rosa-para-apple-r-watch-38-40-41-mm-coach-rosa",
+          "zapatillas-new-balance-608v5-blanco-azul-marino",
+          "base-de-maquillaje-loreal-infallible-pro-matte-tono-104-beige-dorado-30-ml",
+          "pijama-victorias-secret-negro",
+          "badger-company-balsamo-de-tejon-piel-seca-y-sensible-sin-perfume-56-g"
         ],
         "columns_mobile": "2",
         "image_ratio": "landscape",
@@ -285,6 +277,7 @@
       "blocks": {
         "column_y6bfxw": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "column_start": 1,
             "column_end": 2,
@@ -322,47 +315,9 @@
             "card_link": "https:\/\/brandoris.mx\/collections\/consolas-de-juegos-y-productos-para-jugadores"
           }
         },
-        "block_2": {
-          "type": "column",
-          "settings": {
-            "column_start": 4,
-            "column_end": 5,
-            "row_start": "1",
-            "row_end": "unset",
-            "min_height": "medium",
-            "padding": "large",
-            "image": "shopify:\/\/shop_images\/brandori_s.png",
-            "image_size": "cover",
-            "icon_size": "cover",
-            "icon_position": "left-top",
-            "icon_background": "no-bg",
-            "background_color": "rgba(0,0,0,0)",
-            "background_effect": "overlay",
-            "effect_opacity": 0.3,
-            "enable_mobile_overlay": true,
-            "text_align": "bottom-left",
-            "text_color_scheme": "light",
-            "subheading": "Electrónica",
-            "color_text": "#ffffff",
-            "show_subheading_dot": false,
-            "color_dot": "#40b66f",
-            "heading": "Los mejores precios",
-            "heading_size": "h2",
-            "heading_width": 100,
-            "text": "",
-            "text_size": "small",
-            "text_width": 100,
-            "show_button": false,
-            "button_label": "Explore Our Store",
-            "button_link": "",
-            "style_button": "button button--primary button--arrow",
-            "add_button_label": "",
-            "add_button_price": "",
-            "card_link": "shopify:\/\/collections\/electronica"
-          }
-        },
         "block_4": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "column_start": 2,
             "column_end": 4,
@@ -400,11 +355,89 @@
             "card_link": "shopify:\/\/collections\/reloj-inteligente"
           }
         },
-        "column_3JLP9k": {
+        "column_kHa4Vb": {
           "type": "column",
           "settings": {
             "column_start": 1,
-            "column_end": 2,
+            "column_end": 3,
+            "row_start": "unset",
+            "row_end": "unset",
+            "min_height": "small",
+            "padding": "small",
+            "image": "shopify:\/\/shop_images\/as-sun-sets-urban-landscape-bright-lights-city-reflect-off-rainbow.jpg",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "overlay",
+            "effect_opacity": 0.4,
+            "enable_mobile_overlay": false,
+            "text_align": "bottom-left",
+            "text_color_scheme": "light",
+            "subheading": "productos cosméticos",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Date un capricho",
+            "heading_size": "h2",
+            "heading_width": 50,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": "shopify:\/\/collections\/belleza-y-cuidado"
+          }
+        },
+        "block_2": {
+          "type": "column",
+          "settings": {
+            "column_start": 3,
+            "column_end": 4,
+            "row_start": "1",
+            "row_end": "unset",
+            "min_height": "medium",
+            "padding": "large",
+            "image": "shopify:\/\/shop_images\/brandori_s.png",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "no-bg",
+            "background_color": "rgba(0,0,0,0)",
+            "background_effect": "overlay",
+            "effect_opacity": 0.3,
+            "enable_mobile_overlay": true,
+            "text_align": "bottom-left",
+            "text_color_scheme": "light",
+            "subheading": "Electrónica",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Los mejores precios",
+            "heading_size": "h2",
+            "heading_width": 100,
+            "text": "",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": "shopify:\/\/collections\/electronica"
+          }
+        },
+        "column_3JLP9k": {
+          "type": "column",
+          "settings": {
+            "column_start": 4,
+            "column_end": 5,
             "row_start": "unset",
             "row_end": "unset",
             "min_height": "medium",
@@ -441,14 +474,15 @@
         },
         "column_Qw8R6f": {
           "type": "column",
+          "disabled": true,
           "settings": {
-            "column_start": 2,
-            "column_end": 3,
+            "column_start": 4,
+            "column_end": 5,
             "row_start": "unset",
             "row_end": "unset",
             "min_height": "small",
             "padding": "small",
-            "image": "shopify:\/\/shop_images\/new-drill-closeup-isolated-black-background-power-tools-concept_1_c4cea942-e2fa-4957-b235-187f0e4ab91a.jpg",
+            "image": "shopify:\/\/shop_images\/wireless-earbuds-with-neon-cyberpunk-style-lighting_f3ed8952-fd85-4714-ac3b-6968f69506ed.jpg",
             "image_size": "cover",
             "icon_size": "cover",
             "icon_position": "left-top",
@@ -457,13 +491,13 @@
             "background_effect": "none",
             "effect_opacity": 0.4,
             "enable_mobile_overlay": false,
-            "text_align": "bottom-left",
+            "text_align": "top-left",
             "text_color_scheme": "light",
-            "subheading": "Construcción y reparación",
+            "subheading": "Auriculares",
             "color_text": "#ffffff",
             "show_subheading_dot": false,
             "color_dot": "#40b66f",
-            "heading": "Que empiecen los cambios",
+            "heading": "Escucha lo que quieras",
             "heading_size": "h3",
             "heading_width": 50,
             "text": "",
@@ -475,56 +509,17 @@
             "style_button": "button button--primary button--arrow",
             "add_button_label": "",
             "add_button_price": "",
-            "card_link": ""
-          }
-        },
-        "column_kHa4Vb": {
-          "type": "column",
-          "settings": {
-            "column_start": 3,
-            "column_end": 5,
-            "row_start": "unset",
-            "row_end": "unset",
-            "min_height": "small",
-            "padding": "small",
-            "image": "shopify:\/\/shop_images\/334.png",
-            "image_size": "cover",
-            "icon_size": "cover",
-            "icon_position": "left-top",
-            "icon_background": "no-bg",
-            "background_color": "rgba(0,0,0,0)",
-            "background_effect": "none",
-            "effect_opacity": 0.3,
-            "enable_mobile_overlay": false,
-            "text_align": "top-left",
-            "text_color_scheme": "light",
-            "subheading": "MOTOTECNIA",
-            "color_text": "#ffffff",
-            "show_subheading_dot": false,
-            "color_dot": "#40b66f",
-            "heading": "Adrenalina y libertad",
-            "heading_size": "h2",
-            "heading_width": 50,
-            "text": "",
-            "text_size": "small",
-            "text_width": 100,
-            "show_button": false,
-            "button_label": "Explore Our Store",
-            "button_link": "shopify:\/\/collections\/moto-equipment",
-            "style_button": "button button--primary button--arrow",
-            "add_button_label": "",
-            "add_button_price": "",
-            "card_link": ""
+            "card_link": "shopify:\/\/collections\/auriculares"
           }
         }
       },
       "block_order": [
         "column_y6bfxw",
-        "block_2",
         "block_4",
+        "column_kHa4Vb",
+        "block_2",
         "column_3JLP9k",
-        "column_Qw8R6f",
-        "column_kHa4Vb"
+        "column_Qw8R6f"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -544,24 +539,18 @@
         "heading_size": "h2",
         "show_info": true,
         "info_subheading": "mejor precio",
-        "info_heading": "APPLE",
+        "info_heading": "Accesorios",
         "info_heading_size": "h2",
         "text": "Acceso anticipado a nuevos lanzamientos",
         "show_button": true,
         "button_style": "primary",
         "button_label": "Go to Collection",
-        "button_link": "shopify:\/\/collections\/apple-1",
+        "button_link": "shopify:\/\/collections\/accesorios",
         "product_list": [
-          "altavoz-inteligente-apple-homepod-2-a-generacion-medianoche",
-          "apple-imac-todo-en-uno-24-2021-mgpm3ll-a-8gb-256gb-rosa",
-          "apple-ipad-2021-256-gb-wi-fi-plata",
-          "apple-magic-mouse-inalambrico-blanco",
-          "apple-smart-keyboard-folio-para-ipad-pro-de-11-2-a-generacion-negro",
-          "apple-watch-series-8-gps-cellular-45-mm-caja-de-aluminio-medianoche-correa-deportiva-product-red-s-m",
-          "auriculares-inalambricos-apple-airpods-pro-2-blancos",
-          "auriculares-supraaurales-apple-airpods-max-azul-cielo",
-          "computadora-de-escritorio-apple-mac-mini-m2-pro-2023-16gb-2tb-plata",
-          "decodificador-de-tv-apple-tv-4k-wi-fi-ethernet-3-a-generacion-128-gb-negro"
+          "reloj-de-pulsera-para-hombre-moon-lacoste",
+          "michael-kors-jet-set-travel-grande-rosa-claro",
+          "gorra-yeezy-gap-disenada-por-balenciaga-flame-negra",
+          "michael-kors-bolsa-de-viaje-jet-set-blanco"
         ],
         "columns_mobile": "2",
         "image_ratio": "landscape",
@@ -581,6 +570,7 @@
       "blocks": {
         "product_slide_AmcN7B": {
           "type": "product_slide",
+          "disabled": true,
           "settings": {
             "thumbs_heading": "Electrónica",
             "image": "shopify:\/\/shop_images\/26516.jpg",
@@ -594,23 +584,6 @@
             "button_style": "primary",
             "button_label": "Comprar ahora",
             "button_link": "shopify:\/\/collections\/gafas-de-realidad-virtual"
-          }
-        },
-        "product_slide_HWBdVp": {
-          "type": "product_slide",
-          "settings": {
-            "thumbs_heading": "Zapatos",
-            "image": "shopify:\/\/shop_images\/a577de18a02c2882861b6e3667e7f0a2_397adcf9-e053-496a-b913-ec91ac8a2455.png",
-            "subheading": "Zapatos de mujer",
-            "color_text": "#262626",
-            "show_subheading_dot": true,
-            "color_dot": "#5e0d8f",
-            "heading": "PONTE A LA MODA",
-            "text": "Descubra las últimas tendencias en calzado",
-            "show_button": true,
-            "button_style": "primary",
-            "button_label": "Comprar ahora",
-            "button_link": "shopify:\/\/collections\/zapatos-de-mujer"
           }
         },
         "product_slide_34knhE": {
@@ -630,12 +603,46 @@
             "button_link": "shopify:\/\/collections\/pano"
           }
         },
+        "product_slide_KBdwLQ": {
+          "type": "product_slide",
+          "settings": {
+            "thumbs_heading": "Salud",
+            "image": "shopify:\/\/shop_images\/capsules-fish-oil-glass-bowl.jpg",
+            "subheading": "",
+            "color_text": "#282828",
+            "show_subheading_dot": true,
+            "color_dot": "#40b66f",
+            "heading": "CUIDA TU SALUD",
+            "text": "Vitaminas para una excelente salud",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/salud"
+          }
+        },
+        "product_slide_HWBdVp": {
+          "type": "product_slide",
+          "settings": {
+            "thumbs_heading": "Zapatos",
+            "image": "shopify:\/\/shop_images\/a577de18a02c2882861b6e3667e7f0a2_397adcf9-e053-496a-b913-ec91ac8a2455.png",
+            "subheading": "",
+            "color_text": "#262626",
+            "show_subheading_dot": true,
+            "color_dot": "#5e0d8f",
+            "heading": "PONTE A LA MODA",
+            "text": "Descubra las últimas tendencias en calzado",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Comprar ahora",
+            "button_link": "shopify:\/\/collections\/zapatos-de-mujer"
+          }
+        },
         "product_slide_ckdnMP": {
           "type": "product_slide",
           "settings": {
             "thumbs_heading": "Artículos infantiles",
             "image": "shopify:\/\/shop_images\/knitted-toy-bunny-yellow-stars-wooden-teether-newborn-white-bed-baby-stuff-accessories.jpg",
-            "subheading": "Juguetes",
+            "subheading": "",
             "color_text": "#262626",
             "show_subheading_dot": true,
             "color_dot": "#5e0d8f",
@@ -650,8 +657,9 @@
       },
       "block_order": [
         "product_slide_AmcN7B",
-        "product_slide_HWBdVp",
         "product_slide_34knhE",
+        "product_slide_KBdwLQ",
+        "product_slide_HWBdVp",
         "product_slide_ckdnMP"
       ],
       "settings": {
@@ -661,7 +669,7 @@
         "slide_duration": 5,
         "overlay": true,
         "opacity_overlay": 0.2,
-        "image_width": "medium",
+        "image_width": "small",
         "object_fit": "cover",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent",
@@ -675,7 +683,7 @@
         "heading": "Bestsellers",
         "collection_list": [
           "telefonos-inteligentes",
-          "muebles"
+          "salud"
         ],
         "products_limit": 9,
         "products_to_show": 3,
@@ -694,14 +702,16 @@
       "blocks": {
         "collection_6": {
           "type": "collection_item",
+          "disabled": true,
           "settings": {
             "collection": "accesorios-electronicos"
           }
         },
         "collection_2": {
           "type": "collection_item",
+          "disabled": true,
           "settings": {
-            "collection": "backbone"
+            "collection": "auriculares"
           }
         },
         "collection_3": {
@@ -712,20 +722,53 @@
         },
         "collection_4": {
           "type": "collection_item",
+          "disabled": true,
           "settings": {
             "collection": "monitores"
           }
         },
         "collection_1": {
           "type": "collection_item",
+          "disabled": true,
           "settings": {
             "collection": "telefonos-inteligentes"
           }
         },
         "collection_5": {
           "type": "collection_item",
+          "disabled": true,
           "settings": {
-            "collection": "muebles-de-dormitorio"
+            "collection": "productos-domesticos"
+          }
+        },
+        "collection_item_WfEEBT": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "21st-century"
+          }
+        },
+        "collection_item_iGkVMk": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "zapatillas-zapatillas-botas-hombre"
+          }
+        },
+        "collection_item_rERt8F": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "solgar"
+          }
+        },
+        "collection_item_RAgBnh": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "michael-kors"
+          }
+        },
+        "collection_item_TzTCBM": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "loreal"
           }
         }
       },
@@ -735,7 +778,12 @@
         "collection_3",
         "collection_4",
         "collection_1",
-        "collection_5"
+        "collection_5",
+        "collection_item_WfEEBT",
+        "collection_item_iGkVMk",
+        "collection_item_rERt8F",
+        "collection_item_RAgBnh",
+        "collection_item_TzTCBM"
       ],
       "settings": {
         "color_scheme": "background-1",
